@@ -7,6 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+About Me
+======
 Hi, this is Yangfu! I'm a final year PhD student in the School of Computer Science at Beijing University of Posts and Telecommunications, advised by [Dr. Bin Wu]. Before joining cSchool, I got my Master's degree in Teaching & Curriculum  in German with a minor in psychology (psychometrics). My current research is at the intersection of NLP, HCI, and Psychometrics, where I design NLP tasks and conduct human studies to evaluate model performance, from which we aim to teach the model to learn like how a human learns. I also design interactive human-in-the-loop ML tools. My work has been published in HCI venues such as CSCW, CHI and NLP conferences such as ACL and NAACL. 
 
 
