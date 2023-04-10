@@ -41,4 +41,4 @@ _IEEE Transactions on Computational Social Systems 2022_ <br>
 ## 2020 ## 
 __User behavior prediction of social hotspots based on multimessage interaction and neural network__<br>
   Yunpeng Xiao, Jinghua Li, <u>Yangfu Zhu</u>, Qian Li<br>
-_IEEE Transactions on Computational Social Systems 2022_ <br>
+_IEEE Transactions on Computational Social Systems 2020_ <br>
