@@ -25,20 +25,20 @@ __A lexical psycholinguistic knowledge-guided graph neural network for interpret
 <u>Yangfu Zhu</u>, Linmei Hu, Nianwen Ning, Wei Zhang, Bin Wu<br>
 _Knowledge Based Systems 2022_ <br>
 
-__A Personality Knowledge Graph for Personality Analysis__ [PDF](/files/10 8 PerKG_A_Personality_Knowledge_Graph_for_Personality_Analysis.pdf) <br>
+__A Personality Knowledge Graph for Personality Analysis__ [PDF](/files/8 PerKG_A_Personality_Knowledge_Graph_for_Personality_Analysis.pdf) <br>
 <u>Yangfu Zhu</u>, Zhanming Guan, Siqi Wei, Bin Wu<br>
 _IEEE SMC 2022_ <br>
 
-__Dynamic graph neural network for fake news detection__ [<a href='https://arxiv.org/pdf/2112.04030.pdf'>PDF</a>] <br>
+__Dynamic graph neural network for fake news detection__ [PDF](/files/13 Dynamic graph neural network for fake news detection) <br>
  Chengguang Song, Yiyang Teng, <u>Yangfu Zhu</u>, Siqi Wei, Bin Wu<br>
 _Neurocomputing 2022_ <br>
 
-__Dynamic graph neural network for fake news detection__ [<a href='https://arxiv.org/pdf/2112.04030.pdf'>PDF</a>] <br>
+__A Social Topic Diffusion Model Based on Rumor and Anti-Rumor and Motivation-Rumor__ <br>
  Xuemei Mou, Wei Xu, <u>Yangfu Zhu</u>, Yunpeng Xiao<br>
 _IEEE Transactions on Computational Social Systems 2022_ <br>
 
 
 ## 2020 ## 
-__User behavior prediction of social hotspots based on multimessage interaction and neural network__ [<a href='https://arxiv.org/pdf/2112.04030.pdf'>PDF</a>] <br>
+__User behavior prediction of social hotspots based on multimessage interaction and neural network__<br>
   Yunpeng Xiao, Jinghua Li, <u>Yangfu Zhu</u>, Qian Li<br>
 _IEEE Transactions on Computational Social Systems 2022_ <br>
