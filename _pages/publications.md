@@ -36,7 +36,7 @@ _Neurocomputing 2022_ <br>
 __Dynamic graph neural network for fake news detection__ [<a href='https://arxiv.org/pdf/2112.04030.pdf'>PDF</a>] <br>
  Xuemei Mou, Wei Xu, <u>Yangfu Zhu</u>, Yunpeng Xiao<br>
 _IEEE Transactions on Computational Social Systems 2022_ <br>
-.
+
 
 ## 2020 ## 
 __User behavior prediction of social hotspots based on multimessage interaction and neural network__ [<a href='https://arxiv.org/pdf/2112.04030.pdf'>PDF</a>] <br>
