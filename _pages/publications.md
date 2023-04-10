@@ -21,7 +21,7 @@ __Contrastive Graph Transformer Network for Personality Detection__ [<a href='ht
 <u>Yangfu Zhu</u>, Linmei Hu, Xinkai Ge, Wanrong Peng, Bin Wu<br>
 _IJCAI 2022_ <br>
 
-__A lexical psycholinguistic knowledge-guided graph neural network for interpretable personality detection__ [<a url=/files/YangfuZhu_CV.pdf>PDF</a>]<br>
+__A lexical psycholinguistic knowledge-guided graph neural network for interpretable personality detection__ [PDF](/files/YangfuZhu_CV.pdf)<br>
 <u>Yangfu Zhu</u>, Linmei Hu, Nianwen Ning, Wei Zhang, Bin Wu<br>
 _Knowledge Based Systems 2022_ <br>
 
