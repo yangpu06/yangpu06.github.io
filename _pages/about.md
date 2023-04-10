@@ -24,7 +24,7 @@ Academic Service
 ------
 
 - **Journal Reviewer**: TNNLS, TCSS, KBS, etc.
-- **Journal Reviewer**: IJCAI 2023, ICASSP 2023, etc.
+- **Conference Reviewer**: IJCAI 2023, ICASSP 2023, etc.
 
 Awards & Honor
 ------
