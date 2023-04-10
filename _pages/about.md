@@ -20,4 +20,13 @@ News
 Our paper __Contrastive Graph Transformer Network for Personality Detection__ [<a href='https://www.ijcai.org/proceedings/2022/0633.pdf'>PDF</a>] has been accepted to IJCAI 2022! 
 
 
+Academic Service
+======
+Journal Reviewer:
+- IEEE Transactions on Neural Networks and Learning Systems(TNNLS)
+- IEEE Transactions on Computational Social Systems (TCSS)
+- Knowledge Based Systems
 
+Journal Reviewer:
+- IJCAI 2023
+- ICASSP 2023
