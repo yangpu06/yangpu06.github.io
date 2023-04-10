@@ -29,7 +29,7 @@ Academic Service
 Awards & Honor
 ------
 
-- **JNational Scholarship Award of China.** (only 7 winners in School of Computer Science, BUPT)            2022 Fall
+- **National Scholarship Award of China.** (only 7 winners in School of Computer Science, BUPT)            2022 Fall
 - Academic Scholarship for Graduate Students in BUPT.       2021 Fall
 - Academic Scholarship for Graduate Students in CQUPT.      2020 Summer
 
