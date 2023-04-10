@@ -29,7 +29,7 @@ __A Personality Knowledge Graph for Personality Analysis__ [PDF](/files/8 PerKG_
 <u>Yangfu Zhu</u>, Zhanming Guan, Siqi Wei, Bin Wu<br>
 _IEEE SMC 2022_ <br>
 
-__Dynamic graph neural network for fake news detection__ [PDF](/files/13 Dynamic graph neural network for fake news detection) <br>
+__Dynamic graph neural network for fake news detection__ [PDF](/files/13 Dynamic graph neural network for fake news detection.pdf) <br>
  Chengguang Song, Yiyang Teng, <u>Yangfu Zhu</u>, Siqi Wei, Bin Wu<br>
 _Neurocomputing 2022_ <br>
 
