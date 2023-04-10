@@ -22,15 +22,12 @@ Our paper __Contrastive Graph Transformer Network for Personality Detection__ [<
 
 Academic Service
 ------
-
 - **Journal Reviewer**: TNNLS, TCSS, KBS, etc.
 - **Conference Reviewer**: IJCAI 2023, ICASSP 2023, etc.
 
 Awards & Honor
 ------
-
 - **National Scholarship Award of China.** (only 7 winners in School of Computer Science, BUPT)            2022 Fall
-<!-- - Academic Scholarship for Graduate Students in BUPT.       2021 Fall
-- Academic Scholarship for Graduate Students in CQUPT.      2020 Summer -->
+
 
 
