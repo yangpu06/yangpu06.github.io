@@ -23,7 +23,7 @@ Our paper __Contrastive Graph Transformer Network for Personality Detection__ [<
 Academic Service
 ------
 - **Journal Reviewer**: TNNLS, TCSS, KBS, etc.
-- **Conference Reviewer**: IJCAI 2023, ICASSP 2023, etc.
+- **Conference Reviewer**: MM 2023, ICASSP 2023, etc.
 
 Awards & Honor
 ------
