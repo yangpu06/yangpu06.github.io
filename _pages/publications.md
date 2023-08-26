@@ -34,7 +34,7 @@ __A lexical psycholinguistic knowledge-guided graph neural network for interpret
 **Yangfu Zhu**, Linmei Hu, Nianwen Ning, Wei Zhang, Bin Wu<br>
 _Knowledge Based Systems 2022_ <br>
 
-__A Personality Knowledge Graph for Personality Analysis__ [PDF](/files/8 PerKG_A_Personality_Knowledge_Graph_for_Personality_Analysis.pdf)  (CCF-C)<br>
+__A Personality Knowledge Graph for Personality Analysis__ [PDF](/files/8 PerKG_A_Personality_Knowledge_Graph_for_Personality_Analysis.pdf) (CCF-C)<br>
 **Yangfu Zhu**, Zhanming Guan, Siqi Wei, Bin Wu<br>
 _IEEE SMC 2022_ <br>
 
