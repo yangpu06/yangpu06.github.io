@@ -16,14 +16,14 @@ author_profile: true
 {% endfor %} -->
 ## 2023 ## 
 
-__PCENet: Psychological Clues Exploration Network for Multimodal Personality Assessment__ <br>
+__PCENet: Psychological Clues Exploration Network for Multimodal Personality Assessment__ (CCF-B) <br>
 **Yangfu Zhu**, Yuting Wei, Meiling Li, Tingting Zhang, Siqi Wei, Bin Wu<br>
 _CIKM 2023_ <be>
 
 
 ## 2022 ## 
 
-__Contrastive Graph Transformer Network for Personality Detection__ [<a href='https://www.ijcai.org/proceedings/2022/0633.pdf'>PDF</a>] <br>
+__Contrastive Graph Transformer Network for Personality Detection__ [<a href='https://www.ijcai.org/proceedings/2022/0633.pdf'>PDF</a>] (CCF-A)<br>
 **Yangfu Zhu**, Linmei Hu, Xinkai Ge, Wanrong Peng, Bin Wu<br>
 _IJCAI 2022_ <br>
 
