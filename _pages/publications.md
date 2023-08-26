@@ -20,6 +20,10 @@ __PCENet: Psychological Clues Exploration Network for Multimodal Personality Ass
 **Yangfu Zhu**, Yuting Wei, Meiling Li, Tingting Zhang, Siqi Wei, Bin Wu<br>
 _CIKM 2023_ <be>
 
+__Shifted GCN-GAT and Cumulative-Transformer based Social Relation Recognition for Long Videos__ (CCF-A) <br>
+Haorui Wang, Yibo Hu, **Yangfu Zhu**, Jinsheng Qi, Bin Wu<br>
+ Yuting Wei, Meiling Li, Tingting Zhang, Siqi Wei, Bin Wu
+_ACM MM 2023_ <br>
 
 ## 2022 ## 
 
