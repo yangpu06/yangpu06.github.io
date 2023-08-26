@@ -14,6 +14,12 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
+## 2023 ## 
+
+__PCENet: Psychological Clues Exploration Network for Multimodal Personality Assessment__ 
+<u>Yangfu Zhu</u>, Yuting Wei, Meiling Li, Tingting Zhang, Siqi Wei, Bin Wu<br>
+_CIKM 2023_ <be>
+
 
 ## 2022 ## 
 
