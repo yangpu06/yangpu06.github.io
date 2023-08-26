@@ -10,9 +10,9 @@ redirect_from:
 
 About Me
 ------
-Hi, this is Yangfu! I'm a third-year Ph.D student in the School of Computer Science at Beijing University of Posts and Telecommunications (BUPT), advised by [<a href='https://scholar.google.com/citations?hl=zh-CN&user=qCf-504AAAAJ'>Prof. Bin Wu</a>]. Before joining cSchool, I got my Master's degree in Computer Technology  at Chongqing University of Posts and Telecommunications (CQUPT), advised by [<a href='https://scholar.google.com/citations?user=zQ-C7wwAAAAJ&hl=zh-CN'>Prof. Yunpeng Xiao</a>]. My current research is at the intersection of Human-Centered Natural Language Processing, Affective computing (e.g., Personality computing), and Social network analysis (e.g., Information diffusion). 
+Hi, this is Yangfu! I'm a third-year Ph.D. student in the School of Computer Science at Beijing University of Posts and Telecommunications (BUPT), advised by [<a href='https://scholar.google.com/citations?hl=zh-CN&user=qCf-504AAAAJ'>Prof. Bin Wu</a>]. Before joining cSchool, I got my Master's degree in Computer Technology  at Chongqing University of Posts and Telecommunications (CQUPT), advised by [<a href='https://scholar.google.com/citations?user=zQ-C7wwAAAAJ&hl=zh-CN'>Prof. Yunpeng Xiao</a>]. My current research includes Human-Centered Natural Language Processing, Affective computing (e.g., Personality computing), and Social network analysis (e.g., Information diffusion). 
 
-I’m actively looking for applied scientist, machine learning engineer, and research-related positions! Please contact me if you know any opportunities😀.
+I’m actively looking for  research-related positions! Please contact me if you know any opportunities😀.
 
 News
 ------
