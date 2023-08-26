@@ -16,7 +16,7 @@ I’m actively looking for applied scientist, machine learning engineer, and res
 
 News
 ------
-
+Our paper __PCENet: Psychological Clues Exploration Network for Multimodal Personality Assessment__ has been accepted to CIKM 2023! 
 Our paper __Contrastive Graph Transformer Network for Personality Detection__ [<a href='https://www.ijcai.org/proceedings/2022/0633.pdf'>PDF</a>] has been accepted to IJCAI 2022! 
 
 
