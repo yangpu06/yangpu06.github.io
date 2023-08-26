@@ -38,16 +38,16 @@ __A Personality Knowledge Graph for Personality Analysis__ [PDF](/files/8 PerKG_
 **Yangfu Zhu**, Zhanming Guan, Siqi Wei, Bin Wu<br>
 _IEEE SMC 2022_ <br>
 
-__Dynamic graph neural network for fake news detection__ [PDF](/files/13 Dynamic graph neural network for fake news detection.pdf) (SCI，中科院一区Top) <br>
+__Dynamic graph neural network for fake news detection__ [PDF](/files/13 Dynamic graph neural network for fake news detection.pdf) (SCI，中科院二区) <br>
  Chengguang Song, Yiyang Teng,**Yangfu Zhu**, Siqi Wei, Bin Wu<br>
 _Neurocomputing 2022_ <br>
 
-__A Social Topic Diffusion Model Based on Rumor and Anti-Rumor and Motivation-Rumor__ (SCI，中科院一区Top) <br>
+__A Social Topic Diffusion Model Based on Rumor and Anti-Rumor and Motivation-Rumor__  (SCI，中科院二区) <br>
  Xuemei Mou, Wei Xu, **Yangfu Zhu**, Yunpeng Xiao<br>
 _IEEE Transactions on Computational Social Systems 2022_ <br>
 
 
 ## 2020 ## 
-__User behavior prediction of social hotspots based on multimessage interaction and neural network__  (SCI，中科院一区Top) <br>
+__User behavior prediction of social hotspots based on multimessage interaction and neural network__   (SCI，中科院二区) <br>
   Yunpeng Xiao, Jinghua Li, **Yangfu Zhu**, Qian Li<br>
 _IEEE Transactions on Computational Social Systems 2020_ <br>
