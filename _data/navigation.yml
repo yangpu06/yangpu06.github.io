@@ -16,7 +16,7 @@ main:
 #     url: /year-archive/
     
   - title: "CV"
-    url: /files/YangfuZhu_CV.pdf
-    
+   # url: /files/YangfuZhu_CV.pdf
+      url: /files/朱洋甫_简历3.pdf
 #   - title: "Guide"
 #     url: /markdown/
