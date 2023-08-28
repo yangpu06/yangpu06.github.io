@@ -10,11 +10,12 @@ redirect_from:
 
 About Me
 ------
-Hi, this is Yangfu! I'm a third-year Ph.D. student in the School of Computer Science at Beijing University of Posts and Telecommunications (BUPT), advised by [<a href='https://scholar.google.com/citations?hl=zh-CN&user=qCf-504AAAAJ'>Prof. Bin Wu</a>]. Before joining cSchool, I got my Master's degree in Computer Technology  at Chongqing University of Posts and Telecommunications (CQUPT), advised by [<a href='https://scholar.google.com/citations?user=zQ-C7wwAAAAJ&hl=zh-CN'>Prof. Yunpeng Xiao</a>]. My research interests lie in large-scale data mining and machine learning on various types of data (e.g., graph, text, and video), with a focus on developing AI/ML solutions for real-world problems. <br>
+Hi, this is Yangfu Zhu! I'm a fourth-year Ph.D. student in the School of Computer Science at Beijing University of Posts and Telecommunications (BUPT), advised by [<a href='https://scholar.google.com/citations?hl=zh-CN&user=qCf-504AAAAJ'>Prof. Bin Wu</a>]. Before joining cSchool, I got my Master's degree in Computer Technology  at Chongqing University of Posts and Telecommunications (CQUPT), advised by [<a href='https://scholar.google.com/citations?user=zQ-C7wwAAAAJ&hl=zh-CN'>Prof. Yunpeng Xiao</a>]. My research interests lie in large-scale data mining and machine learning on various types of data (e.g., graph, text, and video), with a focus on developing AI/ML solutions for real-world problems. <br>
 - **Graph Mining and Learning:** (Graph neural network, Knowledge graph )
 - **Human-Centered Natural Language Processing:** (User-generated document analysis, Social bias analysis )   
-- **AI/ML Solutions for Real-world Problems:** (Personality computing, Cultural computing, Fake news detection )   
-I’m actively looking for  research-related positions! Please contact me if you know any opportunities😀.
+- **AI/ML Solutions for Real-world Problems:** (Personality computing, Cultural computing, Fake news detection )
+<br>     
+I’m actively looking for research-related positions! Please contact me if you know any opportunities😀.
 
 Selected Publications
 ------
