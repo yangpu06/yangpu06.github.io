@@ -30,7 +30,7 @@ _ACM MM 2023_ (CCF-A 多媒体领域顶会) <br>
 _IJCAI 2022_ [<a href='https://www.ijcai.org/proceedings/2022/0633.pdf'>PDF</a>] (CCF-A 人工智能领域顶会)<br>
 - **A lexical psycholinguistic knowledge-guided graph neural network for interpretable personality detection**<br>
 **Yangfu Zhu**, Linmei Hu, Nianwen Ning, Wei Zhang, Bin Wu<br>
-_Knowledge Based Systems 2022_  (SCI，中科院一区Top)<br>
+_Knowledge Based Systems 2022_  (SCI，中科院一区TOP)<br>
 - **A Personality Knowledge Graph for Personality Analysis** <br>
 **Yangfu Zhu**, Zhanming Guan, Siqi Wei, Bin Wu<br>
 _IEEE SMC 2022_ (CCF-C) <br>
