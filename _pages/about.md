@@ -43,6 +43,11 @@ _IEEE Transactions on Computational Social Systems 2022_ (SCI，中科院二区)
 - **User behavior prediction of social hotspots based on multimessage interaction and neural network** <br>
   Yunpeng Xiao, Jinghua Li, **Yangfu Zhu**, Qian Li<br>
 _IEEE Transactions on Computational Social Systems 2020_ (SCI，中科院二区) <br>
+- **基于知识引导变换器的古诗主题与情感联合分析** <br>
+  魏钰婷, 胡琳梅, **朱洋甫**, 吴斌<br>
+  中文信息学报(CCF-B) <br>
+
+
 
 Academic Service
 ------
