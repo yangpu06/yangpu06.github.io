@@ -14,9 +14,8 @@ main:
         
 #   - title: "Blog Posts"
 #     url: /year-archive/
-    
-    - title: "CV"
+
+    - title: "cv"
      URL: /files/zyf_cv.pdf
-   
 #   - title: "Guide"
 #     url: /markdown/
