@@ -16,6 +16,6 @@ main:
 #     url: /year-archive/
 
     - title: "cv"
-     URL: /files/zyf_cv.pdf
+      url: /files/zyf_cv.pdf
 #   - title: "Guide"
 #     url: /markdown/
