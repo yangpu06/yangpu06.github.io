@@ -45,7 +45,7 @@ _IEEE Transactions on Computational Social Systems 2022_ (SCI，中科院二区)
 _IEEE Transactions on Computational Social Systems 2020_ (SCI，中科院二区) <br>
 - **基于知识引导变换器的古诗主题与情感联合分析** <br>
   魏钰婷, 胡琳梅, **朱洋甫**, 吴斌<br>
-  中文信息学报(CCF-B) <br>
+  _中文信息学报 2023_ (CCF-B) <br>
 
 
 
