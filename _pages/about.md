@@ -10,16 +10,15 @@ redirect_from:
 
 About Me
 ------
-Hi, this is Yangfu! I'm a third-year Ph.D. student in the School of Computer Science at Beijing University of Posts and Telecommunications (BUPT), advised by [<a href='https://scholar.google.com/citations?hl=zh-CN&user=qCf-504AAAAJ'>Prof. Bin Wu</a>]. Before joining cSchool, I got my Master's degree in Computer Technology  at Chongqing University of Posts and Telecommunications (CQUPT), advised by [<a href='https://scholar.google.com/citations?user=zQ-C7wwAAAAJ&hl=zh-CN'>Prof. Yunpeng Xiao</a>]. My research interests lie in large-scale data mining and machine learning on various types of data (e.g., graph, text, and video), with a focus on developing AI/ML solutions for real-world problems.
+Hi, this is Yangfu! I'm a third-year Ph.D. student in the School of Computer Science at Beijing University of Posts and Telecommunications (BUPT), advised by [<a href='https://scholar.google.com/citations?hl=zh-CN&user=qCf-504AAAAJ'>Prof. Bin Wu</a>]. Before joining cSchool, I got my Master's degree in Computer Technology  at Chongqing University of Posts and Telecommunications (CQUPT), advised by [<a href='https://scholar.google.com/citations?user=zQ-C7wwAAAAJ&hl=zh-CN'>Prof. Yunpeng Xiao</a>]. My research interests lie in large-scale data mining and machine learning on various types of data (e.g., graph, text, and video), with a focus on developing AI/ML solutions for real-world problems. <br>
 
-*Graph mining and learning: Hypergraph Learning, Graph Engine, Influence Maximization
-*Human-Centered Natural Language Processing: Large-batch Optimization, Distributed Data Parallelism, Quantization
-*AI/ML solutions for real-world problems: Political Polarization, Fake News Detection, Recommender Systems
-
+- **Graph mining and learning:** (Graph neural network, Knowledge graph )
+- **Human-Centered Natural Language Processing:** (User-generated document analysis, Social bias analysis )   
+- **AI/ML solutions for real-world problems:** (Personality computing, Cultural computing, Fake news detection )   
 
 I’m actively looking for  research-related positions! Please contact me if you know any opportunities😀.
 
-%My  research lies at the intersection of  Human-Centered Natural Language Processing, Affective computing (e.g., Personality computing), and Social network analysis (e.g., Information diffusion). 
+
 
 
 
