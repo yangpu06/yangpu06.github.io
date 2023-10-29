@@ -22,7 +22,7 @@ Selected Publications
 - *PCENet: Psychological Clues Exploration Network for Multimodal Personality Assessment*<br>
 **Yangfu Zhu**, Yuting Wei, Meiling Li, Tingting Zhang, Siqi Wei, Bin Wu<br>
 _CIKM 2023_ (CCF-B 数据挖掘领域顶会)<br>
-- **Contrastive Graph Transformer Network for Personality Detection**  <br>
+- *Contrastive Graph Transformer Network for Personality Detection*  <br>
 **Yangfu Zhu**, Linmei Hu, Xinkai Ge, Wanrong Peng, Bin Wu<br>
 _IJCAI 2022_ [<a href='https://www.ijcai.org/proceedings/2022/0633.pdf'>PDF</a>] (CCF-A 人工智能领域顶会)<br>
 - *A lexical psycholinguistic knowledge-guided graph neural network for interpretable personality detection*<br>
