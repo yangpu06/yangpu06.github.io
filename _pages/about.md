@@ -19,7 +19,7 @@ I’m actively looking for research-related positions! Please contact me if you 
 
 Selected Publications
 ------
-- **Yangfu Zhu**, Yuting Wei, Meiling Li, Tingting Zhang, Siqi Wei, Bin Wu PCENet: Psychological Clues Exploration Network for Multimodal Personality Assessment<br>
+- **Yangfu Zhu**, Yuting Wei, Meiling Li, Tingting Zhang, Siqi Wei, Bin Wu. PCENet: Psychological Clues Exploration Network for Multimodal Personality Assessment.
 _CIKM 2023_ (CCF-B, 数据挖掘顶会)<br>
 - Contrastive Graph Transformer Network for Personality Detection  <br>
 **Yangfu Zhu**, Linmei Hu, Xinkai Ge, Wanrong Peng, Bin Wu<br>
