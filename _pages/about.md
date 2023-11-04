@@ -26,17 +26,9 @@ _CIKM 2023_ (CCF-B, 数据挖掘顶会)<br>
 - **Yangfu Zhu**, Yuting Wei, Meiling Li, Tingting Zhang, Siqi Wei, Bin Wu. A Personality Knowledge Graph for Personality Analysis. _IEEE SMC 2022_ (CCF-C) <br>
 - Haorui Wang, Yibo Hu, **Yangfu Zhu**, Jinsheng Qi, Bin Wu. Shifted GCN-GAT and Cumulative-Transformer based Social Relation Recognition for Long Videos. _ACM MM 2023_ (CCF-A, 多媒体顶会) <br>
 - Chengguang Song, Yiyang Teng,**Yangfu Zhu**, Siqi Wei, Bin Wu. Dynamic graph neural network for fake news detection.  _Neurocomputing 2022_ (SCI，中科院二区)<br>
-- A Social Topic Diffusion Model Based on Rumor and Anti-Rumor and Motivation-Rumor<br>
- Xuemei Mou, Wei Xu, **Yangfu Zhu**, Yunpeng Xiao<br>
-_IEEE Transactions on Computational Social Systems 2022_ (SCI，中科院二区) <br>
-- User behavior prediction of social hotspots based on multimessage interaction and neural network <br>
-  Yunpeng Xiao, Jinghua Li, **Yangfu Zhu**, Qian Li<br>
-  _IEEE Transactions on Computational Social Systems 2020_ (SCI，中科院二区) <br>
-- 基于知识引导变换器的古诗主题与情感联合分析 <br>
-  魏钰婷, 胡琳梅, **朱洋甫**, 吴斌<br>
-  _中文信息学报 2023_ (CCF-B) <br>
-
-
+- Xuemei Mou, Wei Xu, **Yangfu Zhu**, Yunpeng Xiao. Social Topic Diffusion Model Based on Rumor and Anti-Rumor and Motivation-Rumor. _IEEE Transactions on Computational Social Systems 2022_ (SCI，中科院二区) <br>
+- Yunpeng Xiao, Jinghua Li, **Yangfu Zhu**, Qian Li. User behavior prediction of social hotspots based on multimessage interaction and neural network. _IEEE Transactions on Computational Social Systems 2020_ (SCI，中科院二区) <br>
+- Yunpeng Xiao, Jinghua Li, **Yangfu Zhu**, Qian Li. 基于知识引导变换器的古诗主题与情感联合分析. _中文信息学报 2023_ (CCF-B) <br>
 
 Academic Service
 ------
