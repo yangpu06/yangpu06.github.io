@@ -42,7 +42,7 @@ _IJCAI 2022_ (CCF-A, 人工智能顶会)<br>
 - A Personality Knowledge Graph for Personality Analysis.<br>
 **Yangfu Zhu**,  Zhanming Guan, Siqi Wei, Bin Wu. <br>
   _IEEE SMC 2022_ (CCF-C) <br>
-  [<a href='https://github.com/moshenglee/PerKG'>Code</a>] 
+<!--  [<a href='https://github.com/moshenglee/PerKG'>Code</a>] -->
 
 
 - Shifted GCN-GAT and Cumulative-Transformer based Social Relation Recognition for Long Videos.<br>
