@@ -45,7 +45,7 @@ _IJCAI 2022_ [<a href='https://www.ijcai.org/proceedings/2022/0633.pdf'>PDF</a>]
 - Shifted GCN-GAT and Cumulative-Transformer based Social Relation Recognition for Long Videos.<br>
 Haorui Wang, Yibo Hu, **Yangfu Zhu**, Jinsheng Qi, Bin Wu.<br>
  _ACM MM 2023_ (CCF-A, 多媒体顶会) <br>
-
+[<a href='https://www.sciencedirect.com/science/article/pii/S0893608023006044'>PDF</a>] [<a href='https://github.com/moshenglee/HG-PerCon'>Code</a>] 
 - HG-PerCon: Cross-view contrastive learning for personality prediction..<br>
   Meiling Li, **Yangfu Zhu**, Shicheng Li, Bin Wu. <br>
    _Neural Networks 2023_  (SCI，中科院一区) <br> 
