@@ -52,7 +52,7 @@ Haorui Wang, Yibo Hu, **Yangfu Zhu**, Jinsheng Qi, Bin Wu.<br>
 - HG-PerCon: Cross-view contrastive learning for personality prediction..<br>
   Meiling Li, **Yangfu Zhu**, Shicheng Li, Bin Wu. <br>
    _Neural Networks 2023_  (SCI，中科院一区) <br> 
-[<a href='https://www.sciencedirect.com/science/article/pii/S0893608023006044'>PDF</a>] [<a href='https://github.com/moshenglee/HG-PerCon'>Code</a>] 
+<!--[<a href='https://www.sciencedirect.com/science/article/pii/S0893608023006044'>PDF</a>] [<a href='https://github.com/moshenglee/HG-PerCon'>Code</a>]-->
 
 
 - Dynamic graph neural network for fake news detection.  <br>
