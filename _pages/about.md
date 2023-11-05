@@ -34,9 +34,9 @@ _IJCAI 2022_ [<a href='https://www.ijcai.org/proceedings/2022/0633.pdf'>PDF</a>]
   **Yangfu Zhu**,  Linmei Hu, Nianwen Ning, Wei Zhang, Bin Wu.  <br>
   _Knowledge Based Systems 2022_  (SCI，中科院一区)<br>
   
-- **Yangfu Zhu**,  Zhanming Guan, Siqi Wei, and Bin Wu. <br>
-  A Personality Knowledge Graph for Personality Analysis.<br>
-_IEEE SMC 2022_ (CCF-C) <br>
+- A Personality Knowledge Graph for Personality Analysis.<br>
+**Yangfu Zhu**,  Zhanming Guan, Siqi Wei, Bin Wu. <br>
+  _IEEE SMC 2022_ (CCF-C) <br>
 
 - Shifted GCN-GAT and Cumulative-Transformer based Social Relation Recognition for Long Videos.<br>
 Haorui Wang, Yibo Hu, **Yangfu Zhu**, Jinsheng Qi, Bin Wu.<br>
