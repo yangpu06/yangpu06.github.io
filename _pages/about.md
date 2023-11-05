@@ -46,6 +46,11 @@ _IJCAI 2022_ [<a href='https://www.ijcai.org/proceedings/2022/0633.pdf'>PDF</a>]
 Haorui Wang, Yibo Hu, **Yangfu Zhu**, Jinsheng Qi, Bin Wu.<br>
  _ACM MM 2023_ (CCF-A, 多媒体顶会) <br>
 
+- HG-PerCon: Cross-view contrastive learning for personality prediction..<br>
+  Meiling Li, **Yangfu Zhu**, Shicheng Li, Bin Wu. <br>
+   _Neural Networks 2023_  (SCI，中科院一区) <br> 
+
+
 - Dynamic graph neural network for fake news detection.  <br>
  Chengguang Song, Yiyang Teng,**Yangfu Zhu**, Siqi Wei, Bin Wu.<br>
   _Neurocomputing 2022_ (SCI，中科院二区)<br>
