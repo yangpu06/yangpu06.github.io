@@ -32,7 +32,8 @@ Selected Publications
  
 - Contrastive Graph Transformer Network for Personality Detection.<br>
 **Yangfu Zhu**, Linmei Hu, Xinkai Ge, Wanrong Peng, Bin Wu. <br>
-_IJCAI 2022_ [<a href='https://www.ijcai.org/proceedings/2022/0633.pdf'>PDF</a>] (CCF-A, 人工智能顶会)<br>
+_IJCAI 2022_ (CCF-A, 人工智能顶会)<br>
+[<a href='https://www.ijcai.org/proceedings/2022/0633.pdf'>PDF</a>] 
 
 - A lexical psycholinguistic knowledge-guided graph neural network for interpretable personality detection. <br>
   **Yangfu Zhu**,  Linmei Hu, Nianwen Ning, Wei Zhang, Bin Wu.  <br>
