@@ -22,16 +22,41 @@ I’m actively looking for research-related positions! Please contact me if you 
 
 Selected Publications
 ------
-- **Yangfu Zhu**, Yuting Wei, Meiling Li, Tingting Zhang, Siqi Wei, Bin Wu. PCENet: Psychological Clues Exploration Network for Multimodal Personality Assessment.<br>
-_CIKM 2023_ (CCF-B, 数据挖掘顶会)<br>
-- **Yangfu Zhu**, Yuting Wei, Meiling Li, Tingting Zhang, Siqi Wei, Bin Wu. Contrastive Graph Transformer Network for Personality Detection.<br> _IJCAI 2022_ [<a href='https://www.ijcai.org/proceedings/2022/0633.pdf'>PDF</a>] (CCF-A, 人工智能顶会)<br>
-- **Yangfu Zhu**, Yuting Wei, Meiling Li, Tingting Zhang, Siqi Wei, Bin Wu. A lexical psycholinguistic knowledge-guided graph neural network for interpretable personality detection. <br>_Knowledge Based Systems 2022_  (SCI，中科院一区)<br>
-- **Yangfu Zhu**, Yuting Wei, Meiling Li, Tingting Zhang, Siqi Wei, Bin Wu. A Personality Knowledge Graph for Personality Analysis.<br> _IEEE SMC 2022_ (CCF-C) <br>
-- Haorui Wang, Yibo Hu, **Yangfu Zhu**, Jinsheng Qi, Bin Wu. Shifted GCN-GAT and Cumulative-Transformer based Social Relation Recognition for Long Videos.<br> _ACM MM 2023_ (CCF-A, 多媒体顶会) <br>
-- Chengguang Song, Yiyang Teng,**Yangfu Zhu**, Siqi Wei, Bin Wu. Dynamic graph neural network for fake news detection.  <br>_Neurocomputing 2022_ (SCI，中科院二区)<br>
-- Xuemei Mou, Wei Xu, **Yangfu Zhu**, Yunpeng Xiao. Social Topic Diffusion Model Based on Rumor and Anti-Rumor and Motivation-Rumor. <br>_IEEE Transactions on Computational Social Systems 2022_ (SCI，中科院二区) <br>
-- Yunpeng Xiao, Jinghua Li, **Yangfu Zhu**, Qian Li. User behavior prediction of social hotspots based on multimessage interaction and neural network.<br> _IEEE Transactions on Computational Social Systems 2020_ (SCI，中科院二区) <br>
-- 魏钰婷, 胡琳梅, **朱洋甫**, 吴斌. 基于知识引导变换器的古诗主题与情感联合分析.<br> _中文信息学报 2023_ (CCF-B) <br>
+- PCENet: Psychological Clues Exploration Network for Multimodal Personality Assessment.<br>
+ **Yangfu Zhu**, Yuting Wei, Meiling Li, Tingting Zhang, Siqi Wei, Bin Wu. <br>
+ _CIKM 2023_ (CCF-B, 数据挖掘顶会)<br>
+ 
+- Contrastive Graph Transformer Network for Personality Detection.<br>
+**Yangfu Zhu**, Linmei Hu, Xinkai Ge, Wanrong Peng, Bin Wu. <br>
+_IJCAI 2022_ [<a href='https://www.ijcai.org/proceedings/2022/0633.pdf'>PDF</a>] (CCF-A, 人工智能顶会)<br>
+
+- A lexical psycholinguistic knowledge-guided graph neural network for interpretable personality detection. <br>
+  **Yangfu Zhu**,  Linmei Hu, Nianwen Ning, Wei Zhang, Bin Wu.  <br>
+  _Knowledge Based Systems 2022_  (SCI，中科院一区)<br>
+  
+- **Yangfu Zhu**,  Zhanming Guan, Siqi Wei, and Bin Wu. <br>
+- A Personality Knowledge Graph for Personality Analysis.<br>
+_IEEE SMC 2022_ (CCF-C) <br>
+
+- Haorui Wang, Yibo Hu, **Yangfu Zhu**, Jinsheng Qi, Bin Wu.<br>
+- Shifted GCN-GAT and Cumulative-Transformer based Social Relation Recognition for Long Videos.<br>
+- _ACM MM 2023_ (CCF-A, 多媒体顶会) <br>
+
+- Chengguang Song, Yiyang Teng,**Yangfu Zhu**, Siqi Wei, Bin Wu.<br>
+-  Dynamic graph neural network for fake news detection.  <br>
+_Neurocomputing 2022_ (SCI，中科院二区)<br>
+
+- Xuemei Mou, Wei Xu, **Yangfu Zhu**, Yunpeng Xiao.<br>
+- Social Topic Diffusion Model Based on Rumor and Anti-Rumor and Motivation-Rumor.<br>
+-  _IEEE Transactions on Computational Social Systems 2022_ (SCI，中科院二区) <br>
+
+- Yunpeng Xiao, Jinghua Li, **Yangfu Zhu**, Qian Li.<br>
+- User behavior prediction of social hotspots based on multimessage interaction and neural network.<br>
+_IEEE Transactions on Computational Social Systems 2020_ (SCI，中科院二区) <br>
+
+- 魏钰婷, 胡琳梅, **朱洋甫**, 吴斌.<br>
+- 基于知识引导变换器的古诗主题与情感联合分析.<br>
+- _中文信息学报 2023_ (CCF-B) <br>
 
 Academic Service
 ------
