@@ -23,9 +23,9 @@ I’m actively looking for research-related positions! Please contact me if you 
 Selected Publications
 ------
 
-  - Data Augmented Graph Neural Networks for Personality Detection.<br>
+ <!-- - Data Augmented Graph Neural Networks for Personality Detection.<br>
  **Yangfu Zhu**, Yue Xia, Meiling Li, and Bin Wu.<br>
-  _AAAI 2024_ (CCF-A)<br> 
+  _AAAI 2024_ (CCF-A)<br>  --> 
 
 - PCENet: Psychological Clues Exploration Network for Multimodal Personality Assessment.<br>
  **Yangfu Zhu**, Yuting Wei, Meiling Li, Tingting Zhang, Siqi Wei, Bin Wu. <br>
