@@ -72,8 +72,8 @@ _IJCAI 2022_ (CCF-A)<br>
  
 Academic Service
 ------
-- **Journal Reviewer/ PC Member:**: TNNLS; TCSS; KBS; NCAA; ASOC.
-- **Conference Reviewer**: IJCAI (2023); MM (2023); WWW(2024); ICASSP (2023-2024).
+- **Journal Reviewer/ PC Member:**: IJCAI (2023); MM (2023); WWW(2024); ICASSP (2023-2024). 
+- **Conference Reviewer**: TNNLS; TCSS; KBS; NCAA; ASOC.
 
 Awards & Honor
 ------
