@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ------
-Hi,  I am a fourth-year Ph.D. student in the School of Computer Science at Beijing University of Posts and Telecommunications (BUPT), advised by [<a href='https://scholar.google.com/citations?hl=zh-CN&user=qCf-504AAAAJ'>Prof. Bin Wu</a>]. Before joining cSchool, I got my Master's degree in Computer Technology  at Chongqing University of Posts and Telecommunications (CQUPT), advised by [<a href='https://scholar.google.com/citations?user=zQ-C7wwAAAAJ&hl=zh-CN'>Prof. Yunpeng Xiao</a>]. My research interests lie in large-scale data mining and machine learning on various types of data (e.g., graph, text, and video), with a focus on developing AI/ML solutions for real-world problems.  This is my resume  [<a href='/files/zyf_cv.pdf' >中文简历</a>] [<a href='/files/zyf_cv.pdf' >CV. </a>] <br>
+Hi,  I am a fourth-year Ph.D. student in the School of Computer Science at Beijing University of Posts and Telecommunications (BUPT), advised by [<a href='https://scholar.google.com/citations?hl=zh-CN&user=qCf-504AAAAJ'>Prof. Bin Wu</a>]. Before joining cSchool, I got my Master's degree in Computer Technology  at Chongqing University of Posts and Telecommunications (CQUPT), advised by [<a href='https://scholar.google.com/citations?user=zQ-C7wwAAAAJ&hl=zh-CN'>Prof. Yunpeng Xiao</a>]. My research interests lie in large-scale data mining and machine learning on various types of data (e.g., graph, text, and video), with a focus on developing AI/ML solutions for real-world problems.  This is my resume  [<a href='/files/zyf_cv.pdf' >中文简历</a>] [<a href='/files/zyf_cv.pdf' >CV</a>].  <br>
 
 Research Interests 
 ------
