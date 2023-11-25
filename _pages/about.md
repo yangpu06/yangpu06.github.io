@@ -24,7 +24,8 @@ Selected Publications
 ------
  - Data Augmented Graph Neural Networks for Personality Detection.<br>
  **Yangfu Zhu**, Yue Xia, Meiling Li, and Bin Wu.<br>
-  _AAAI 2024_ (CCF-A)<br>  
+  _AAAI 2024_ (CCF-A)<br>
+
  <!-- - Data Augmented Graph Neural Networks for Personality Detection.<br>
  **Yangfu Zhu**, Yue Xia, Meiling Li, and Bin Wu.<br>
   _AAAI 2024_ (CCF-A)<br>  --> 
