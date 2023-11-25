@@ -51,9 +51,14 @@ _IJCAI 2022_ (CCF-A)<br>
   Haorui Wang, Yibo Hu, **Yangfu Zhu**, Jinsheng Qi, Bin Wu.<br>
  _ACM MM 2023_ (CCF-A ) <br>
 
+
+- Sketch-Based Poetry Retrieval with Unsupervised Visionand-Language Pre-training.<br>
+   Yuqing Li, Yuting Wei, **Yangfu Zhu**, Bin Wu. <br>
+   AAAI, 2024. （CCF-A）
+
 - HG-PerCon: Cross-view contrastive learning for personality prediction..<br>
   Meiling Li, **Yangfu Zhu**, Shicheng Li, Bin Wu. <br>
- _Neural Networks 2023_  (SCI，Q1) <br> 
+ _Neural Networks 2023_  (CCF-B，SCI，Q1) <br> 
  <!--[<a href='https://www.sciencedirect.com/science/article/pii/S0893608023006044'>PDF</a>] [<a href='https://github.com/moshenglee/HG-PerCon'>Code</a>]-->
 
 
