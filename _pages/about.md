@@ -17,6 +17,7 @@ Research Interests
 - **Graph Mining and Learning:** (Graph neural network, Knowledge graph )
 - **Human-Centered Natural Language Processing:** (User-generated document analysis, Social bias analysis )   
 - **AI/ML Solutions for Real-world Problems:** (Personality computing, Cultural computing, Fake news detection )
+- **Large Language  Model Evaluation:** ( Psychological Assessment of Large Language  Model)
 <br>     
 I’m actively looking for research-related positions! Please contact me if you know any opportunities😀.
 
