@@ -17,7 +17,7 @@ Research Interests
 - **Graph Mining and Learning:** (Graph neural network, Knowledge graph )
 - **Human-Centered Natural Language Processing:** (User-generated document analysis, Social bias analysis )   
 - **AI/ML Solutions for Real-world Problems:** (Personality computing, Cultural computing, Fake news detection )
-- **Large Language  Model Evaluation:** ( Psychological Assessment of Large Language  Model)
+- **Large Language  Model Evaluation:** ( Psychological assessment of large language  model)
 <br>     
 I’m actively looking for research-related positions! Please contact me if you know any opportunities😀.
 
@@ -81,12 +81,15 @@ _IJCAI 2022_ (CCF-A)<br>
  
 Academic Service
 ------
-- **Conference Reviewer/ PC Member:**: IJCAI (2023); MM (2023); WWW(2024); ICASSP (2023-2024). 
-- **Journal Reviewer**: TNNLS; TCSS; KBS; NCAA; ASOC.
+- **Conference Reviewer/ PC Member**<br>
+   IJCAI (2023); MM (2023); WWW(2024); ICASSP (2023-2024). <br>
+- **Journal Reviewer**<br>
+  TNNLS; TCSS; KBS; NCAA; ASOC.<br>
 
 Awards & Honor
 ------
-- **National Scholarship Award of China.** (only 7 winners in School of Computer Science, BUPT)  2022 Fall
+- **National Scholarship Award of China， 2022 Fall** <br>
+(only 7 winners in School of Computer Science, BUPT)  
 
 
 
