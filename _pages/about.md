@@ -26,7 +26,7 @@ My research interests lie in large-scale data mining and machine learning, with 
 
     
 * * *
-📝 **Selected  Publications**
+📝 **Publications**
 
  - Data Augmented Graph Neural Networks for Personality Detection.<br>
  **Yangfu Zhu**, Yue Xia, Meiling Li, and Bin Wu.<br>
