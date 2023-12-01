@@ -15,13 +15,11 @@ Hi,  I am a fourth-year Ph.D. student in the School of Computer Science at Beiji
 - **Graph Mining and Learning:** (Graph neural network, Knowledge graph )
 - **Human-Centered Natural Language Processing:** (User-generated document analysis, Social bias analysis )   
 - **AI/ML Solutions for Real-world Problems:** (Personality computing, Cultural computing, Fake news detection )
-- **Large Language  Model Evaluation:** ( Psychological assessment of large language  model)
-<br>     
+- **Large Language  Model Evaluation:** ( Psychological assessment of large language  model)<br>     
 I’m actively looking for research-related positions! Please contact me if you know any opportunities😀.
 
 
 # 📝 Selected  Publications 
-
  - Data Augmented Graph Neural Networks for Personality Detection.<br>
  **Yangfu Zhu**, Yue Xia, Meiling Li, and Bin Wu.<br>
   _AAAI 2024_ (CCF-A)<br>
