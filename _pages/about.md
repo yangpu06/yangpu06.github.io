@@ -25,58 +25,58 @@ Hi,  I am a fourth-year Ph.D. student in the School of Computer Science at Beiji
 
  - Data Augmented Graph Neural Networks for Personality Detection.<br>
  **Yangfu Zhu**, Yue Xia, Meiling Li, and Bin Wu.<br>
-  _AAAI 2024_ (CCF-A)<br>
+  _AAAI 2024_ <br>
 
  <!-- - Data Augmented Graph Neural Networks for Personality Detection.<br>
  **Yangfu Zhu**, Yue Xia, Meiling Li, and Bin Wu.<br>
-  _AAAI 2024_ (CCF-A)<br>  --> 
+  _AAAI 2024_ <br>  --> 
 
 - PCENet: Psychological Clues Exploration Network for Multimodal Personality Assessment.<br>
  **Yangfu Zhu**, Yuting Wei, Meiling Li, Tingting Zhang, Siqi Wei, Bin Wu. <br>
- _CIKM 2023_ (CCF-B)<br>
+ _CIKM 2023_ <br>
  
 - Contrastive Graph Transformer Network for Personality Detection.<br>
 **Yangfu Zhu**, Linmei Hu, Xinkai Ge, Wanrong Peng, Bin Wu. <br>
-_IJCAI 2022_ (CCF-A)<br>
+_IJCAI 2022_<br>
 
 - A lexical psycholinguistic knowledge-guided graph neural network for interpretable personality detection. <br>
   **Yangfu Zhu**,  Linmei Hu, Nianwen Ning, Wei Zhang, Bin Wu.  <br>
-  _Knowledge Based Systems 2022_  (SCI,Q1)<br>
+  _Knowledge Based Systems 2022_<br>
   
 - A Personality Knowledge Graph for Personality Analysis.<br>
   **Yangfu Zhu**,  Zhanming Guan, Siqi Wei, Bin Wu. <br>
-  _IEEE SMC 2022_ (CCF-C) <br>
+  _IEEE SMC 2022_ <br>
   <!--  [<a href='https://github.com/moshenglee/PerKG'>Code</a>] -->
 
 - Shifted GCN-GAT and Cumulative-Transformer based Social Relation Recognition for Long Videos.<br>
   Haorui Wang, Yibo Hu, **Yangfu Zhu**, Jinsheng Qi, Bin Wu.<br>
- _ACM MM 2023_ (CCF-A ) <br>
+ _ACM MM 2023_<br>
 
 
 - Sketch-Based Poetry Retrieval with Unsupervised Visionand-Language Pre-training.<br>
    Yuqing Li, Yuting Wei, **Yangfu Zhu**, Bin Wu. <br>
-   AAAI, 2024. （CCF-A）
+   AAAI, 2024. 
 
 - HG-PerCon: Cross-view contrastive learning for personality prediction..<br>
   Meiling Li, **Yangfu Zhu**, Shicheng Li, Bin Wu. <br>
- _Neural Networks 2023_  (CCF-B，SCI，Q1) <br> 
+ _Neural Networks 2023_ <br> 
  <!--[<a href='https://www.sciencedirect.com/science/article/pii/S0893608023006044'>PDF</a>] [<a href='https://github.com/moshenglee/HG-PerCon'>Code</a>]-->
 
 - Dynamic graph neural network for fake news detection.  <br>
   Chengguang Song, Yiyang Teng,**Yangfu Zhu**, Siqi Wei, Bin Wu.<br>
-  _Neurocomputing 2022_ (SCI，Q2)<br>
+  _Neurocomputing 2022_ <br>
 
 - Social Topic Diffusion Model Based on Rumor and Anti-Rumor and Motivation-Rumor.<br>
   Xuemei Mou, Wei Xu, **Yangfu Zhu**, Yunpeng Xiao.<br>
-  _IEEE Transactions on Computational Social Systems 2022_ (SCI，Q2) <br>
+  _IEEE Transactions on Computational Social Systems 2022_  <br>
 
 -  User behavior prediction of social hotspots based on multimessage interaction and neural network.<br>
    Yunpeng Xiao, Jinghua Li, **Yangfu Zhu**, Qian Li.<br>
-  _IEEE Transactions on Computational Social Systems 2020_ (SCI，Q2) <br>
+  _IEEE Transactions on Computational Social Systems 2020_  <br>
 
 - 基于知识引导变换器的古诗主题与情感联合分析.<br>
   魏钰婷, 胡琳梅, **朱洋甫**, 吴斌.<br>
-  _中文信息学报 2023_ (CCF-B) <br>
+  _中文信息学报 2023_ <br>
   
  * * *
  📚 **Academic Service**  
