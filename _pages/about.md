@@ -78,17 +78,15 @@ _IJCAI 2022_ (CCF-A)<br>
 - 基于知识引导变换器的古诗主题与情感联合分析.<br>
   魏钰婷, 胡琳梅, **朱洋甫**, 吴斌.<br>
   _中文信息学报 2023_ (CCF-B) <br>
+  
  ---
- 
  📚 **Academic Service**  
-
 - **Conference Reviewer/ PC Member**<br>
    IJCAI (2023); MM (2023); WWW(2024); ICASSP (2023-2024). <br>
 - **Journal Reviewer**<br>
   TNNLS; TCSS; KBS; NCAA; ASOC.<br>
 ---
 🎖 **Honors and Awards** 
-
 - **National Scholarship Award of China， 2022 Fall** <br>
 (only 7 winners in School of Computer Science, BUPT)  
 ---
