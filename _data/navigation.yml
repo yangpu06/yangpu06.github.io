@@ -3,17 +3,17 @@ main:
   - title: "About Me"
     url: "/_pages/about.md#-about-me"
 
-  - title: "Research Interests"
-    url: "/_pages/about.md#--research-interests"
+  # - title: "Research Interests"
+  #   url: "/_pages/about.md#--research-interests"
 
-  - title: "Publications"  
-   URL: "/_pages/about.md#-selected--publications"
+  # - title: "Publications"  
+  #  URL: "/_pages/about.md#-selected--publications"
 
-  - title: "Service"
-    url: "/_pages/about.md#-selected--publications"
-    
-  - title: "Honors and Awarads"
-    url: "/_pages/about.md#-honors-and-awards"
+  # - title: "Service"
+  #   url: "/_pages/about.md#-selected--publications"
+   
+  # - title: "Honors and Awarads"
+  #   url: "/_pages/about.md#-honors-and-awards"
 
 #   - title: "Talks"
 #     url: /talks/    
