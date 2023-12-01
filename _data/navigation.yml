@@ -1,19 +1,19 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/about.md#-about-me"
+    url: "/_pages/about.md#-about-me"
 
   - title: "Research Interests"
-    url: "/about.md#--research-interests"
+    url: "/_pages/about.md#--research-interests"
 
   - title: "Publications"  
-   URL: "/about.md#-selected--publications"
+   URL: "/_pages/about.md#-selected--publications"
 
   - title: "Service"
-    url: "/about.md#-selected--publications"
+    url: "/_pages/about.md#-selected--publications"
     
   - title: "Honors and Awarads"
-    url: "/about.md#-honors-and-awards"
+    url: "/_pages/about.md#-honors-and-awards"
 
 #   - title: "Talks"
 #     url: /talks/    
