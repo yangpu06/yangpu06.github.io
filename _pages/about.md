@@ -14,8 +14,8 @@ Hi, I’m a PhD student (2020-)  in Computer Science  at Beijing University of P
 
 My research interests lie in large-scale data mining and machine learning, with a focus on developing AI/ML solutions for real-world problems.  During my Ph.D., I'm researching computer-psychology interdisciplinary field, specifically personality computing.  <br>
 
-- **Graph Mining and Learning:** (Graph neural network, Knowledge graph )
-- **Human-Centered Natural Language Processing:** (User-generated document analysis, Social bias analysis )   
+- **Graph Mining and Learning:** (Graph neural network, Information dissemination in social networks )
+- **Human-Centered Natural Language Processing:** (User-generated document analysis, Social de-biasing )   
 - **AI/ML Solutions for Real-world Problems:** (Personality computing, Cultural computing, Fake news detection )
 - **Large Language  Model Evaluation:** ( Psychological assessment of large language  model)<br>
 
