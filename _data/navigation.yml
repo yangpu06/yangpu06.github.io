@@ -1,16 +1,16 @@
 # main links links
 main:
-  # - title: "About Me"
-  #   url: "/#About-Me"
+  - title: "About Me"
+    url: "/## 🚩 About Me"
 
-  # - title: "Publications"
-  #   url: "/#-Selected-Publications "
+  - title: "Publications"
+    url: "/#-Selected-Publications "
 
-  # - title: "Academic Service"  
-  #  URL: "/#-Academic-Service/"
+  - title: "Academic Service"  
+   URL: "/#-Academic-Service/"
    
-  # - title: "Honors and Awarads"
-  #   url: "/#-Honors-and-Awards"
+  - title: "Honors and Awarads"
+    url: "/#-Honors-and-Awards"
 
 #   - title: "Talks"
 #     url: /talks/    
