@@ -17,7 +17,7 @@ My research interests lie in large-scale data mining and machine learning, with 
 - **Graph Mining and Learning:** (Graph neural network, Information dissemination in social networks )
 - **Human-Centered Natural Language Processing:** (User-generated document analysis, Social de-biasing )   
 - **Multimodal Learning:** (Personality computing, Cultural computing, Fake news detection )
-- **Psychological Assessment of LLMs:** <br>
+- **Psychological Assessment of LLMs** <br>
 
 This is my resume  [<a href='/files/CHICV.pdf' >**中文简历**</a>] [<a href='/files/ENGCV.pdf' >**CV**</a>].  <br>
 
