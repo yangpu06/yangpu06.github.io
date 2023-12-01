@@ -2,13 +2,13 @@
 main:
 
   - title: "About Me"
-    url: "/#about-me"
+    url: "/#About-Me"
 
   - title: "Publications"
     url: "/#-Selected-Publications "
 
   - title: "Academic Service"  
-   url: /#-Academic-Service/
+   URL: "/#-Academic-Service/"
    
   - title: "Honors and Awarads"
     url: "/#-Honors-and-Awards"
