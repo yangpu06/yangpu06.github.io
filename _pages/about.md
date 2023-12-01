@@ -12,7 +12,7 @@ redirect_from:
  
 Hi,  I am a fourth-year Ph.D. student in the School of Computer Science at Beijing University of Posts and Telecommunications (BUPT), advised by Prof. <a href='https://teacher.bupt.edu.cn/wubin/zh_CN/index/41367/list/index.htm'>**Bin Wu**</a> and Assoc. Prof. <a href='https://cs.bit.edu.cn/szdw/jsml/js/hlm/index.htm'>**Linmei Hu**</a>. Before joining cSchool, I got my Master's degree in Computer Technology  at Chongqing University of Posts and Telecommunications (CQUPT), advised by Prof.  <a href='https://www.idata.ah.cn/#/about/leaderDetail?id=2'>**Zuocheng Wang**</a> and Prof. <a href='https://faculty.cqupt.edu.cn/xiaoyp/zh_CN/index.htm'>**Yunpeng Xiao**</a>. My research interests lie in large-scale data mining and machine learning on various types of data (e.g., graph, text, and video), with a focus on developing AI/ML solutions for real-world problems.  During my Ph.D., I'm researching computer-psychology interdisciplinary field, specifically personality computing. This is my resume  [<a href='/files/CHICV.pdf' >**中文简历**</a>] [<a href='/files/ENGCV.pdf' >**CV**</a>].  <br>
 
----
+* * *
 🔥 **Research Interests**
  
 - **Graph Mining and Learning:** (Graph neural network, Knowledge graph )
@@ -20,7 +20,7 @@ Hi,  I am a fourth-year Ph.D. student in the School of Computer Science at Beiji
 - **AI/ML Solutions for Real-world Problems:** (Personality computing, Cultural computing, Fake news detection )
 - **Large Language  Model Evaluation:** ( Psychological assessment of large language  model)<br>
     
----
+* * *
 📝 **Selected  Publications**
 
  - Data Augmented Graph Neural Networks for Personality Detection.<br>
@@ -78,18 +78,18 @@ _IJCAI 2022_ (CCF-A)<br>
   魏钰婷, 胡琳梅, **朱洋甫**, 吴斌.<br>
   _中文信息学报 2023_ (CCF-B) <br>
   
- ---
+ * * *
  📚 **Academic Service**  
 - **Conference Reviewer/ PC Member**<br>
    IJCAI (2023); MM (2023); WWW(2024); ICASSP (2023-2024). <br>
 - **Journal Reviewer**<br>
   TNNLS; TCSS; KBS; NCAA; ASOC.<br>
   
----
+* * *
 🎖 **Honors and Awards** 
 - **National Scholarship Award of China， 2022 Fall** <br>
 (only 7 winners in School of Computer Science, BUPT)
 
----
+* * *
 
 
