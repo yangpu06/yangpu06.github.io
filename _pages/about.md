@@ -14,7 +14,7 @@ redirect_from:
  ----
 Hi,  I am a fourth-year Ph.D. student in the School of Computer Science at Beijing University of Posts and Telecommunications (BUPT), advised by Prof. <a href='https://teacher.bupt.edu.cn/wubin/zh_CN/index/41367/list/index.htm'>**Bin Wu**</a> and Assoc. Prof. <a href='https://cs.bit.edu.cn/szdw/jsml/js/hlm/index.htm'>**Linmei Hu**</a>. Before joining cSchool, I got my Master's degree in Computer Technology  at Chongqing University of Posts and Telecommunications (CQUPT), advised by Prof.  <a href='https://www.idata.ah.cn/#/about/leaderDetail?id=2'>**Zuocheng Wang**</a> and Prof. <a href='https://faculty.cqupt.edu.cn/xiaoyp/zh_CN/index.htm'>**Yunpeng Xiao**</a>. My research interests lie in large-scale data mining and machine learning on various types of data (e.g., graph, text, and video), with a focus on developing AI/ML solutions for real-world problems.  During my Ph.D., I'm researching computer-psychology interdisciplinary field, specifically personality computing. This is my resume  [<a href='/files/CHICV.pdf' >**中文简历**</a>] [<a href='/files/ENGCV.pdf' >**CV**</a>].  <br>
 
- 🔥  **Research Interests **
+ 🔥 **Research Interests**
 - **Graph Mining and Learning:** (Graph neural network, Knowledge graph )
 - **Human-Centered Natural Language Processing:** (User-generated document analysis, Social bias analysis )   
 - **AI/ML Solutions for Real-world Problems:** (Personality computing, Cultural computing, Fake news detection )
@@ -61,7 +61,6 @@ _IJCAI 2022_ (CCF-A)<br>
   Meiling Li, **Yangfu Zhu**, Shicheng Li, Bin Wu. <br>
  _Neural Networks 2023_  (CCF-B，SCI，Q1) <br> 
  <!--[<a href='https://www.sciencedirect.com/science/article/pii/S0893608023006044'>PDF</a>] [<a href='https://github.com/moshenglee/HG-PerCon'>Code</a>]-->
-
 
 - Dynamic graph neural network for fake news detection.  <br>
   Chengguang Song, Yiyang Teng,**Yangfu Zhu**, Siqi Wei, Bin Wu.<br>
