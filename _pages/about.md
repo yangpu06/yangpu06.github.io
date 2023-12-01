@@ -9,11 +9,9 @@ redirect_from:
 ---
 
 # 🚩 About Me
-------
 Hi,  I am a fourth-year Ph.D. student in the School of Computer Science at Beijing University of Posts and Telecommunications (BUPT), advised by Prof. <a href='https://teacher.bupt.edu.cn/wubin/zh_CN/index/41367/list/index.htm'>**Bin Wu**</a> and Assoc. Prof. <a href='https://cs.bit.edu.cn/szdw/jsml/js/hlm/index.htm'>**Linmei Hu**</a>. Before joining cSchool, I got my Master's degree in Computer Technology  at Chongqing University of Posts and Telecommunications (CQUPT), advised by Prof.  <a href='https://www.idata.ah.cn/#/about/leaderDetail?id=2'>**Zuocheng Wang**</a> and Prof. <a href='https://faculty.cqupt.edu.cn/xiaoyp/zh_CN/index.htm'>**Yunpeng Xiao**</a>. My research interests lie in large-scale data mining and machine learning on various types of data (e.g., graph, text, and video), with a focus on developing AI/ML solutions for real-world problems.  During my Ph.D., I'm researching computer-psychology interdisciplinary field, specifically personality computing. This is my resume  [<a href='/files/CHICV.pdf' >**中文简历**</a>] [<a href='/files/ENGCV.pdf' >**CV**</a>].  <br>
 
-Research Interests 
-------
+# 🔥  Research Interests 
 - **Graph Mining and Learning:** (Graph neural network, Knowledge graph )
 - **Human-Centered Natural Language Processing:** (User-generated document analysis, Social bias analysis )   
 - **AI/ML Solutions for Real-world Problems:** (Personality computing, Cultural computing, Fake news detection )
@@ -22,36 +20,8 @@ Research Interests
 I’m actively looking for research-related positions! Please contact me if you know any opportunities😀.
 
 
-# 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/image-alignment-150x150.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+# 📝 Selected  Publications 
 
-[HAHE: Hierarchical Attention for Hyper-Relational Knowledge Graphs in Global and Local Level](https://aclanthology.org/2023.acl-long.450/) \\
-**Haoran Luo**, Haihong E, Yuhao Yang, Yikai Guo, Mingzhi Sun, Tianyu Yao, Zichen Tang, Kaiyang Wan, Meina Song, Wei Lin\\
-\[[paper](https://aclanthology.org/2023.acl-long.450.pdf)\]\[[code](https://github.com/LHRLAB/HAHE)\]
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/image-alignment-150x150.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[NQE: N-ary Query Embedding for Complex Query Answering over Hyper-Relational Knowledge Graphs](https://ojs.aaai.org/index.php/AAAI/article/view/25576) \\
-**Haoran Luo**, Haihong E, Yuhao Yang, Gengxian Zhou, Yikai Guo, Tianyu Yao, Zichen Tang, Xueyuan Lin, Kaiyang Wan\\
-\[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25576/25348)\]\[[code](https://github.com/LHRLAB/NQE)\]
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/image-alignment-150x150.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[DHGE: Dual-View Hyper-Relational Knowledge Graph Embedding for Link Prediction and Entity Typing](https://ojs.aaai.org/index.php/AAAI/article/view/25795) \\
-**Haoran Luo**, Haihong E, Ling Tan, Gengxian Zhou, Tianyu Yao, Kaiyang Wan\\
-\[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25795/25567)\]\[[code](https://github.com/LHRLAB/DHGE)\]
-</div>
-</div>
-
-Selected Publications
-------
  - Data Augmented Graph Neural Networks for Personality Detection.<br>
  **Yangfu Zhu**, Yue Xia, Meiling Li, and Bin Wu.<br>
   _AAAI 2024_ (CCF-A)<br>
@@ -108,15 +78,13 @@ _IJCAI 2022_ (CCF-A)<br>
   魏钰婷, 胡琳梅, **朱洋甫**, 吴斌.<br>
   _中文信息学报 2023_ (CCF-B) <br>
  
-Academic Service
-------
+# 📚 Academic Service
 - **Conference Reviewer/ PC Member**<br>
    IJCAI (2023); MM (2023); WWW(2024); ICASSP (2023-2024). <br>
 - **Journal Reviewer**<br>
   TNNLS; TCSS; KBS; NCAA; ASOC.<br>
 
-Awards & Honor
-------
+# 🎖 Honors and Awards
 - **National Scholarship Award of China， 2022 Fall** <br>
 (only 7 winners in School of Computer Science, BUPT)  
 
