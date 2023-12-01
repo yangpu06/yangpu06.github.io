@@ -81,13 +81,13 @@ _IJCAI, 2022_<br>
  * * *
  📚 **Academic Service**  
 - **Conference Reviewer/ PC Member**<br>
-   IJCAI (2023); MM (2023); WWW(2024); ICASSP (2023-2024). <br>
+   IJCAI (2023); MM (2023); WWW(2024); ICASSP (2023-2024) <br>
 - **Journal Reviewer**<br>
-  TNNLS; TCSS; KBS; NCAA; ASOC.<br>
+  TNNLS; TCSS; KBS; NCAA; ASOC <br>
   
 * * *
 🎖 **Honors and Awards** 
-- **National Scholarship Award of China， 2022 Fall** <br>
+- **National Scholarship Award of China, 2022 Fall** <br>
 (only 7 winners in School of Computer Science, BUPT)
 
 * * *
