@@ -12,12 +12,12 @@ redirect_from:
  
 Hi, I’m a PhD student (2020.09-)  in Computer Science  at Beijing University of Posts and Telecommunications (BUPT), advised by Prof. <a href='https://teacher.bupt.edu.cn/wubin/zh_CN/index/41367/list/index.htm'>**Bin Wu**</a> and Assoc. Prof. <a href='https://cs.bit.edu.cn/szdw/jsml/js/hlm/index.htm'>**Linmei Hu**</a>. Before that, I got my Master's degree (2017.09- 2020.06) in Computer Technology  at Chongqing University of Posts and Telecommunications (CQUPT), advised by Prof.  <a href='https://www.idata.ah.cn/#/about/leaderDetail?id=2'>**Zuocheng Wang**</a> and Prof. <a href='https://faculty.cqupt.edu.cn/xiaoyp/zh_CN/index.htm'>**Yunpeng Xiao**. <br>
 
-My research interests lie in large-scale data mining and machine learning.  During my Ph.D., I'm researching computer-psychology interdisciplinary field, specifically personality computing.  <br>
+My research interests lie in large-scale data mining and machine learning, with a focus on developing AI/ML solutions for real-world problems.  During my Ph.D., I'm researching computer-psychology interdisciplinary field, specifically personality computing.  <br>
 
 - **Graph Mining and Learning:** (Graph neural network, Information dissemination in social networks )
 - **Human-Centered Natural Language Processing:** (User-generated document analysis, Social de-biasing )   
-- **AI/ML Solutions for Real-world Problems:** (Personality computing, Cultural computing, Fake news detection )
-- **Large Language  Model Evaluation:** ( Psychological assessment of large language  model)<br>
+- **Multimodal Learning:** (Personality computing, Cultural computing, Fake news detection )
+- **Psychological assessment of LLMs:** <br>
 
 This is my resume  [<a href='/files/CHICV.pdf' >**中文简历**</a>] [<a href='/files/ENGCV.pdf' >**CV**</a>].  <br>
 
