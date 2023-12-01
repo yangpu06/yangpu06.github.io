@@ -9,7 +9,7 @@
 locale                   : "Beijing, China"
 title                    : "Yangfu Zhu (朱洋甫)"
 title_separator          : "-"
-name                     : &name "Yangfu Zhu"
+name                     : &name "Yangfu Zhu (朱洋甫)"
 description              : &description "personal description"
 url                      : https://yangpu06.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
