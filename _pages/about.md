@@ -19,9 +19,9 @@ Hi,  I am a fourth-year Ph.D. student in the School of Computer Science at Beiji
 - **Graph Mining and Learning:** (Graph neural network, Knowledge graph )
 - **Human-Centered Natural Language Processing:** (User-generated document analysis, Social bias analysis )   
 - **AI/ML Solutions for Real-world Problems:** (Personality computing, Cultural computing, Fake news detection )
-- **Large Language  Model Evaluation:** ( Psychological assessment of large language  model)<br>     
+- **Large Language  Model Evaluation:** ( Psychological assessment of large language  model)<br>
+    
 ---
-
 📝 **Selected  Publications**
 
  - Data Augmented Graph Neural Networks for Personality Detection.<br>
@@ -85,10 +85,12 @@ _IJCAI 2022_ (CCF-A)<br>
    IJCAI (2023); MM (2023); WWW(2024); ICASSP (2023-2024). <br>
 - **Journal Reviewer**<br>
   TNNLS; TCSS; KBS; NCAA; ASOC.<br>
+  
 ---
 🎖 **Honors and Awards** 
 - **National Scholarship Award of China， 2022 Fall** <br>
-(only 7 winners in School of Computer Science, BUPT)  
+(only 7 winners in School of Computer Science, BUPT)
+
 ---
 
 
