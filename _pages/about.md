@@ -55,7 +55,7 @@ _IJCAI 2022_<br>
 
 - Sketch-Based Poetry Retrieval with Unsupervised Visionand-Language Pre-training.<br>
    Yuqing Li, Yuting Wei, **Yangfu Zhu**, Bin Wu. <br>
-   AAAI, 2024. 
+   AAAI 2024
 
 - HG-PerCon: Cross-view contrastive learning for personality prediction..<br>
   Meiling Li, **Yangfu Zhu**, Shicheng Li, Bin Wu. <br>
