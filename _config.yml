@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Beijing, China"
-title                    : "Homepage"
+title                    : "Yangfu Zhu's Homepage"
 title_separator          : "-"
 name                     : &name "Yangfu Zhu (朱洋甫)"
 description              : &description "personal description"
