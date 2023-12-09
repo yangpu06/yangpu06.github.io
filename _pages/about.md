@@ -30,11 +30,9 @@ My research interests lie in large-scale data mining and machine learning, with 
 
  - Data Augmented Graph Neural Networks for Personality Detection.<br>
  **Yangfu Zhu**, Yue Xia, Meiling Li, Tingting Zhang, and Bin Wu.<br>
-  _AAAI, 2024_ <br>
+  _AAAI, 2024_  (Accept)<br>
 
- <!-- - Data Augmented Graph Neural Networks for Personality Detection.<br>
- **Yangfu Zhu**, Yue Xia, Meiling Li, and Bin Wu.<br>
-  _AAAI 2024_ <br>  --> 
+
 
 - PCENet: Psychological Clues Exploration Network for Multimodal Personality Assessment.<br>
  **Yangfu Zhu**, Yuting Wei, Meiling Li, Tingting Zhang, Siqi Wei, Bin Wu. <br>
@@ -56,11 +54,6 @@ _IJCAI, 2022_<br>
 - Shifted GCN-GAT and Cumulative-Transformer based Social Relation Recognition for Long Videos.<br>
   Haorui Wang, Yibo Hu, **Yangfu Zhu**, Jinsheng Qi, Bin Wu.<br>
  _ACM MM, 2023_<br>
-
-
-- Sketch-Based Poetry Retrieval with Unsupervised Visionand-Language Pre-training.<br>
-   Yuqing Li, Yuting Wei, **Yangfu Zhu**, Bin Wu. <br>
-   AAAI, 2024
 
 - HG-PerCon: Cross-view contrastive learning for personality prediction..<br>
   Meiling Li, **Yangfu Zhu**, Shicheng Li, Bin Wu. <br>
