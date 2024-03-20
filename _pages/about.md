@@ -10,7 +10,7 @@ redirect_from:
 
  🚩 **About Me**
  
-Hi, I’m a PhD student (2020.09-)  in Computer Science  at Beijing University of Posts and Telecommunications (BUPT), advised by Prof. <a href='https://teacher.bupt.edu.cn/wubin/zh_CN/index/41367/list/index.htm'>**Bin Wu**</a> and Assoc. Prof. <a href='https://cs.bit.edu.cn/szdw/jsml/js/hlm/index.htm'>**Linmei Hu**</a>. Before that, I got my Master's degree (2017.09- 2020.06) in Computer Technology  at Chongqing University of Posts and Telecommunications (CQUPT), advised by Prof.  <a href='https://www.idata.ah.cn/#/about/leaderDetail?id=2'>**Zuocheng Wang**</a> and Prof. <a href='https://faculty.cqupt.edu.cn/xiaoyp/zh_CN/index.htm'>**Yunpeng Xiao**</a>.  This is my resume  [<a href='/files/CHICV.pdf' >**中文简历**</a>] [<a href='/files/ENGCV.pdf' >**CV**</a>].  <br>
+Hi, I’m a PhD student (2020.09-)  in Computer Science  at Beijing University of Posts and Telecommunications (BUPT), advised by Prof. <a href='https://teacher.bupt.edu.cn/wubin/zh_CN/index/41367/list/index.htm'>**Bin Wu**</a> and Assoc. Prof. <a href='https://cs.bit.edu.cn/szdw/jsml/js/hlm/index.htm'>**Linmei Hu**</a>. Before that, I got my Master's degree (2017.09- 2020.06) in Computer Technology  at Chongqing University of Posts and Telecommunications (CQUPT), advised by  Prof. <a href='https://faculty.cqupt.edu.cn/xiaoyp/zh_CN/index.htm'>**Yunpeng Xiao**</a> and Prof.  <a href='https://www.idata.ah.cn/#/about/leaderDetail?id=2'>**Zuocheng Wang**</a>.  This is my resume  [<a href='/files/CHICV.pdf' >**中文简历**</a>] [<a href='/files/ENGCV.pdf' >**CV**</a>].  <br>
 
 
 
@@ -34,8 +34,6 @@ My research lies in machine learning, data mining, and social computing.  During
  - Data Augmented Graph Neural Networks for Personality Detection.<br>
  **Yangfu Zhu**, Yue Xia, Meiling Li, Tingting Zhang, and Bin Wu.<br>
   _AAAI, 2024_  (Accept)<br>
-
-
 
 - PCENet: Psychological Clues Exploration Network for Multimodal Personality Assessment.<br>
  **Yangfu Zhu**, Yuting Wei, Meiling Li, Tingting Zhang, Siqi Wei, Bin Wu. <br>
@@ -89,7 +87,7 @@ _IJCAI, 2022_<br>
 * * *
 🎖 **Honors and Awards** 
 - **National Scholarship Award of China, 2022 Fall** <br>
-(only 7 winners in School of Computer Science, BUPT)
+(only 5 winners in School of Computer Science, BUPT)
 
 * * *
 
