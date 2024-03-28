@@ -80,7 +80,7 @@ _IJCAI, 2022: 4559-4565._ <br>
  * * *
  📚 **Academic Service**  
 - **Conference Reviewer/ PC Member**<br>
-   IJCAI (2023); MM (2023); WWW(2024); ICASSP (2023-2024) <br>
+   IJCAI (2023); MM (2023-2024); WWW(2024); ICASSP (2023-2024) <br>
 - **Journal Reviewer**<br>
   TNNLS; TCSS; KBS; NCAA; ASOC <br>
   
