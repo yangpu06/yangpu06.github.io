@@ -33,37 +33,37 @@ My research lies in machine learning, data mining, and social computing.  During
 
  - Data Augmented Graph Neural Networks for Personality Detection.<br>
  **Yangfu Zhu**, Yue Xia, Meiling Li, Tingting Zhang, and Bin Wu.<br>
-  _AAAI, 2024_  (Accept)<br>
+  _AAAI, 2024：664-672._  <br>
 
 - PCENet: Psychological Clues Exploration Network for Multimodal Personality Assessment.<br>
  **Yangfu Zhu**, Yuting Wei, Meiling Li, Tingting Zhang, Siqi Wei, Bin Wu. <br>
- _CIKM, 2023_ <br>
+ _CIKM, 2023: 3667-3676._ <br>
  
 - Contrastive Graph Transformer Network for Personality Detection.<br>
 **Yangfu Zhu**, Linmei Hu, Xinkai Ge, Wanrong Peng, Bin Wu. <br>
-_IJCAI, 2022_<br>
+_IJCAI, 2022: 4559-4565._ <br>
 
 - A lexical psycholinguistic knowledge-guided graph neural network for interpretable personality detection. <br>
   **Yangfu Zhu**,  Linmei Hu, Nianwen Ning, Wei Zhang, Bin Wu.  <br>
-  _Knowledge Based Systems, 2022_<br>
+  _Knowledge Based Systems, 2022: 249: 108952._<br>
   
 - A Personality Knowledge Graph for Personality Analysis.<br>
   **Yangfu Zhu**,  Zhanming Guan, Siqi Wei, Bin Wu. <br>
-  _IEEE SMC, 2022_ <br>
+  _IEEE SMC, 2022: 580-585._  <br>
   <!--  [<a href='https://github.com/moshenglee/PerKG'>Code</a>] -->
 
 - Shifted GCN-GAT and Cumulative-Transformer based Social Relation Recognition for Long Videos.<br>
   Haorui Wang, Yibo Hu, **Yangfu Zhu**, Jinsheng Qi, Bin Wu.<br>
- _ACM MM, 2023_<br>
+ _ACM MM, 2023: 67-76._<br>
 
 - HG-PerCon: Cross-view contrastive learning for personality prediction..<br>
   Meiling Li, **Yangfu Zhu**, Shicheng Li, Bin Wu. <br>
- _Neural Networks, 2023_ <br> 
+ _Neural Networks, 2024: 169: 542-554.  <br> 
  <!--[<a href='https://www.sciencedirect.com/science/article/pii/S0893608023006044'>PDF</a>] [<a href='https://github.com/moshenglee/HG-PerCon'>Code</a>]-->
 
 - Dynamic graph neural network for fake news detection.  <br>
   Chengguang Song, Yiyang Teng,**Yangfu Zhu**, Siqi Wei, Bin Wu.<br>
-  _Neurocomputing, 2022_ <br>
+  _Neurocomputing,  2022, 505: 362-374._ <br>
 
 - Social Topic Diffusion Model Based on Rumor and Anti-Rumor and Motivation-Rumor.<br>
   Xuemei Mou, Wei Xu, **Yangfu Zhu**, Yunpeng Xiao.<br>
