@@ -57,11 +57,13 @@ _IJCAI, 2022: 4559-4565._ <br>
   **朱洋甫**, 李美玲,谭嘉辰, 吴斌.<br>
   _计算机科学, 2024_ <br>
   
-
-
 - Shifted GCN-GAT and Cumulative-Transformer based Social Relation Recognition for Long Videos.<br>
   Haorui Wang, Yibo Hu, **Yangfu Zhu**, Jinsheng Qi, Bin Wu.<br>
  _ACM MM, 2023: 67-76._<br>
+
+- A cross-temporal contrastive disentangled model for ancient Chinese understanding.<br>
+  Yuting Wei, **Yangfu Zhu**, Ting Bai, Bin Wu.<br>
+ _Neural Networks, 2024: 106559._<br>
 
 - HG-PerCon: Cross-view contrastive learning for personality prediction..<br>
   Meiling Li, **Yangfu Zhu**, Shicheng Li, Bin Wu. <br>
