@@ -67,7 +67,7 @@ _IJCAI, 2022: 4559-4565._ <br>
 
 - HG-PerCon: Cross-view contrastive learning for personality prediction..<br>
   Meiling Li, **Yangfu Zhu**, Shicheng Li, Bin Wu. <br>
- _Neural Networks, 2024: 169: 542-554.  <br> 
+ _Neural Networks, 2024: 169: 542-554._  <br> 
  <!--[<a href='https://www.sciencedirect.com/science/article/pii/S0893608023006044'>PDF</a>] [<a href='https://github.com/moshenglee/HG-PerCon'>Code</a>]-->
 
 - Dynamic graph neural network for fake news detection.  <br>
