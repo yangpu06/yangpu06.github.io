@@ -70,6 +70,11 @@ _IJCAI, 2022: 4559-4565._ <br>
  _Neural Networks, 2024: 169: 542-554._  <br> 
  <!--[<a href='https://www.sciencedirect.com/science/article/pii/S0893608023006044'>PDF</a>] [<a href='https://github.com/moshenglee/HG-PerCon'>Code</a>]-->
 
+- Enhancing Multimodal Depression Detection with
+Intra- and Inter-Sample Contrastive Learning.<br>
+  Meiling Li, Yuting Wei, **Yangfu Zhu**, Siqi Wei, Bin Wu.<br>
+ _Information Sciences, 2024._<br>
+
 - Dynamic graph neural network for fake news detection.  <br>
   Chengguang Song, Yiyang Teng,**Yangfu Zhu**, Siqi Wei, Bin Wu.<br>
   _Neurocomputing,  2022, 505: 362-374._ <br>
