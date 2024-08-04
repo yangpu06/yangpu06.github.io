@@ -35,14 +35,14 @@ My research lies in machine learning, data mining, and social computing.  During
  - Data Augmented Graph Neural Networks for Personality Detection.<br>
  **Yangfu Zhu**, Yue Xia, Meiling Li, Tingting Zhang, and Bin Wu.<br>
   _AAAI, 2024：664-672._  <br>
+  
+- Contrastive Graph Transformer Network for Personality Detection.<br>
+**Yangfu Zhu**, Linmei Hu, Xinkai Ge, Wanrong Peng, Bin Wu. <br>
+_IJCAI, 2022: 4559-4565._ <be>
 
 - PCENet: Psychological Clues Exploration Network for Multimodal Personality Assessment.<br>
  **Yangfu Zhu**, Yuting Wei, Meiling Li, Tingting Zhang, Siqi Wei, Bin Wu. <br>
  _CIKM, 2023: 3667-3676._ <br>
- 
-- Contrastive Graph Transformer Network for Personality Detection.<br>
-**Yangfu Zhu**, Linmei Hu, Xinkai Ge, Wanrong Peng, Bin Wu. <br>
-_IJCAI, 2022: 4559-4565._ <br>
 
 - A lexical psycholinguistic knowledge-guided graph neural network for interpretable personality detection. <br>
   **Yangfu Zhu**,  Linmei Hu, Nianwen Ning, Wei Zhang, Bin Wu.  <br>
