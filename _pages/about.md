@@ -69,33 +69,33 @@ _IJCAI, 2022: 4559-4565._  （CCF-A, 人工智能顶会） <br>
 
 - A cross-temporal contrastive disentangled model for ancient Chinese understanding.<br>
   Yuting Wei, **Yangfu Zhu**, Ting Bai, Bin Wu.<br>
- _Neural Networks, 2024: 106559._<br>
+ _Neural Networks, 2024: 106559._ （CCF-B, 中科院一区） <br>
 
 - HG-PerCon: Cross-view contrastive learning for personality prediction..<br>
   Meiling Li, **Yangfu Zhu**, Shicheng Li, Bin Wu. <br>
- _Neural Networks, 2024: 169: 542-554._  <br> 
+ _Neural Networks, 2024: 169: 542-554._  （CCF-B, 中科院一区）<br> 
  <!--[<a href='https://www.sciencedirect.com/science/article/pii/S0893608023006044'>PDF</a>] [<a href='https://github.com/moshenglee/HG-PerCon'>Code</a>]-->
 
 - Enhancing Multimodal Depression Detection with
 Intra- and Inter-Sample Contrastive Learning.<br>
   Meiling Li, Yuting Wei, **Yangfu Zhu**, Siqi Wei, Bin Wu.<br>
- _Information Sciences, 2024._<br>
+ _Information Sciences, 2024._ （CCF-B, 中科院一区）<br>
 
 - Social Topic Diffusion Model Based on Rumor and Anti-Rumor and Motivation-Rumor.<br>
   Xuemei Mou, Wei Xu, **Yangfu Zhu**, Yunpeng Xiao.<br>
-  _IEEE Transactions on Computational Social Systems, 2022_  <br>
+  _IEEE Transactions on Computational Social Systems, 2022_  （ 社会计算顶刊）<br>
 
 -  User behavior prediction of social hotspots based on multimessage interaction and neural network.<br>
    Yunpeng Xiao, Jinghua Li, **Yangfu Zhu**, Qian Li.<br>
-  _IEEE Transactions on Computational Social Systems, 2020_  <br>
+  _IEEE Transactions on Computational Social Systems, 2020_  （社会计算顶刊）<br>
   
 - Dynamic graph neural network for fake news detection.  <br>
   Chengguang Song, Yiyang Teng,**Yangfu Zhu**, Siqi Wei, Bin Wu.<br>
-  _Neurocomputing,  2022, 505: 362-374._ <br>
+  _Neurocomputing,  2022, 505: 362-374._（ 中科院二区） <br>
   
 - 基于知识引导变换器的古诗主题与情感联合分析.<br>
-  魏钰婷, 胡琳梅, **朱洋甫**, 吴斌.<br>
-  _中文信息学报, 2023_ <br>
+  魏钰婷, 胡琳梅, **朱洋甫**, 吴斌. <br>
+  _中文信息学报, 2023_ （CCF-B,中文期刊） <br>
 
 - Self-adaptive Prompt-tuning for Event Extraction in
 Ancient Chinese Literature.<br>  Jingyi Zhang, Yuting Wei, **Yangfu Zhu**, Bin Wu*.<br>   IJCNN, 2023: 1-8. （CCF-C, 会议）<br>
