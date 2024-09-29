@@ -104,6 +104,8 @@ Ancient Chinese Literature.<br>  Jingyi Zhang, Yuting Wei, **Yangfu Zhu**, Bin W
 - Prompt-Enhanced Prototype Framework for Few-shot Event Detection.<br>  Xu Liu, Xinming Chen, **Yangfu Zhu**, Bin Wu*.<br>   IJCNN, 2024: 1-8. （CCF-C, 会议）<br>
 
 - Knowledge-enhanced Multi-Granularity Interaction Network for Political Perspective Detection.<br> Xinming Chen, Xu Liu, Yuanxin Xu, **Yangfu Zhu**, Bin Wu*.<br>   IJCNN, 2024: 1-8. （CCF-C, 会议）<br>
+
+
  * * *
  📚 **Academic Service**  
 - **Conference Reviewer/ PC Member**<br>
