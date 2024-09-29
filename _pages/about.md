@@ -57,7 +57,7 @@ _IJCAI, 2022: 4559-4565._  （CCF-A, 人工智能顶会） <br>
   **朱洋甫**, 李美玲,谭嘉辰, 吴斌.<br>
   _计算机科学, 2024_ （CCF-B,中文期刊） <br>
 
--  AC-EVAL: Evaluating Ancient Chinese Language Understanding in Large Language Models. <br> Yuting Wei, Yuanxing Xu, Xinru Wei, Simin Yang, **Yangfu Zhu**, Yuqing Li, Di Liu, Bin Wu*. <br>  _EMNLP 2024 Findings. _（CCF-B, 自然语言处理顶会）<br>
+-  AC-EVAL: Evaluating Ancient Chinese Language Understanding in Large Language Models. <br> Yuting Wei, Yuanxing Xu, Xinru Wei, Simin Yang, **Yangfu Zhu**, Yuqing Li, Di Liu, Bin Wu*. <br>  _EMNLP 2024 Findings._（CCF-B, 自然语言处理顶会）<br>
   
 - Shifted GCN-GAT and Cumulative-Transformer based Social Relation Recognition for Long Videos.<br>
   Haorui Wang, Yibo Hu, **Yangfu Zhu**, Jinsheng Qi, Bin Wu.<br>
