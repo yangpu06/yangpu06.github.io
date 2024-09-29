@@ -97,8 +97,8 @@ Intra- and Inter-Sample Contrastive Learning.<br>
   魏钰婷, 胡琳梅, **朱洋甫**, 吴斌.<br>
   _中文信息学报, 2023_ <br>
 
-  -  Self-adaptive Prompt-tuning for Event Extraction in
-Ancient Chinese Literature.<br>  Jingyi Zhang, Yuting Wei, **Yangfu Zhu**, Bin Wu*.<br>   IJCNN, 2023: 1-8. （CCF-C, 会议）
+- Self-adaptive Prompt-tuning for Event Extraction in
+Ancient Chinese Literature.<br>  Jingyi Zhang, Yuting Wei, **Yangfu Zhu**, Bin Wu*.<br>   IJCNN, 2023: 1-8. （CCF-C, 会议）<br>
 
  * * *
  📚 **Academic Service**  
