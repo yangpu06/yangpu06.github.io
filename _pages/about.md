@@ -100,6 +100,10 @@ Intra- and Inter-Sample Contrastive Learning.<br>
 - Self-adaptive Prompt-tuning for Event Extraction in
 Ancient Chinese Literature.<br>  Jingyi Zhang, Yuting Wei, **Yangfu Zhu**, Bin Wu*.<br>   IJCNN, 2023: 1-8. （CCF-C, 会议）<br>
 
+
+- Prompt-Enhanced Prototype Framework for Few-shot Event Detection.<br>  Xu Liu, Xinming Chen, **Yangfu Zhu**, Bin Wu*.<br>   IJCNN, 2024: 1-8. （CCF-C, 会议）<br>
+
+- Knowledge-enhanced Multi-Granularity Interaction Network for Political Perspective Detection.<br> Xinming Chen, Xu Liu, Yuanxin Xu, **Yangfu Zhu**, Bin Wu*.<br>   IJCNN, 2024: 1-8. （CCF-C, 会议）<br>
  * * *
  📚 **Academic Service**  
 - **Conference Reviewer/ PC Member**<br>
