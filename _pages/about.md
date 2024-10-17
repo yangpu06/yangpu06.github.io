@@ -66,7 +66,10 @@ _IJCAI, 2022: 4559-4565._  （CCF-A, 人工智能顶会） <br>
 - Knowledge-guided Transformer for Joint Theme and Emotion Classification of Chinese Classical Poetry. <br> Yuting Wei, Linmei Hu, **Yangfu Zhu**, Bin Wu*. <br>
   _Transactions on Audio, Speech and Language Processing,2024._ （CCF-B, 自然语言处理顶刊） <br>
 
-
+A diachronic language model for long-time span classical Chinese.<br>
+ Yuting Wei, Meiling Li,  **Yangfu Zhu** , Yuanxing Xu, Yuqing Li, Bin Wu*.<br>
+ _Information Processing & Management, 2025: 103925._ （CCF-B, 中科院一区） <br>
+ 
 - A cross-temporal contrastive disentangled model for ancient Chinese understanding.<br>
   Yuting Wei, **Yangfu Zhu**, Ting Bai, Bin Wu*.<br>
  _Neural Networks, 2024: 106559._ （CCF-B, 中科院一区） <br>
