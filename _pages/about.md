@@ -117,7 +117,7 @@ Ancient Chinese Literature.<br>  Jingyi Zhang, Yuting Wei, **Yangfu Zhu**, Bin W
  * * *
  📚 **Academic Service**  
 - **Conference Reviewer/ PC Member**<br>
-   SIGIR (2025); IJCAI (2023); MM (2023-2025); WWW(2024); WSDM(2026); ICASSP (2023-2024) <br>
+   SIGIR (2025); IJCAI (2023); MM (2023-2025); WWW(2024); WSDM(2026); DASFFA (2024); ICASSP (2023-2024) <br>
 - **Journal Reviewer**<br>
   TNNLS; TCSS; KBS; NCAA; ASOC <br>
   
