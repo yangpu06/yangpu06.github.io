@@ -33,6 +33,10 @@ My research lies in machine learning, data mining, and social computing.  During
 * * *
 📝 **Publications**
 
+- Learning Causally Disentangled Representations for Fair Personality Detection.<br>
+ **Yangfu Zhu**, Meiling Li, Yuting Wei , Di Liu, Yuqing Li, and Bin Wu*.<br>
+  _IJCAI, 2025_  （ACCEPT, CCF-A, 人工智能顶会） <br>
+  
  - Data Augmented Graph Neural Networks for Personality Detection.<br>
  **Yangfu Zhu**, Yue Xia, Meiling Li, Tingting Zhang, and Bin Wu*.<br>
   _AAAI, 2024：664-672._  （CCF-A, 人工智能顶会） <br>
@@ -113,7 +117,7 @@ Ancient Chinese Literature.<br>  Jingyi Zhang, Yuting Wei, **Yangfu Zhu**, Bin W
  * * *
  📚 **Academic Service**  
 - **Conference Reviewer/ PC Member**<br>
-   IJCAI (2023); MM (2023-2024); WWW(2024); ICASSP (2023-2024) <br>
+   SIGIR (2025); IJCAI (2023); MM (2023-2025); WWW(2024); WSDM(2026); ICASSP (2023-2024) <br>
 - **Journal Reviewer**<br>
   TNNLS; TCSS; KBS; NCAA; ASOC <br>
   
