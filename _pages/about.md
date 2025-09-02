@@ -9,7 +9,9 @@ redirect_from:
 ---
 
  🚩 **About Me**
-Yangfu Zhu/朱洋甫 is now working as a Postdoctoral Teaching Fellowships at Capital Normal University. Before that,  I received  my  PHD degree  (2020.09- 2024.06)  in Computer Science  at Beijing University of Posts and Telecommunications (BUPT), advised by Prof. <a href='https://teacher.bupt.edu.cn/wubin/zh_CN/index/41367/list/index.htm'>**Bin Wu**</a>. I got my Master's degree (2017.09- 2020.06) in Computer Technology  at Chongqing University of Posts and Telecommunications (CQUPT), advised by Prof. <a href='https://faculty.cqupt.edu.cn/xiaoyp/zh_CN/index.htm'>**Yunpeng Xiao**  </a> and Prof.   <a href='https://www.idata.ah.cn/#/about/leaderDetail?id=2'>**Zuocheng Wang**</a>.  This is my resume  [<a href='/files/CHICV1.pdf' >**中文简历**</a>] [<a href='/files/ENGCV.pdf' >**CV**</a>].<br>
+ 
+Zhu Yangfu/朱洋甫 is currently a postdoctoral teaching fellow in Mathematics at Capital Normal University.
+Before that,  I received  my  PH.D.  (2020.09- 2024.06)  in Computer Science  at Beijing University of Posts and Telecommunications (BUPT), advised by Prof. <a href='https://teacher.bupt.edu.cn/wubin/zh_CN/index/41367/list/index.htm'>**Bin Wu**</a>. I got my Master's degree (2017.09- 2020.06) at Chongqing University of Posts and Telecommunications (CQUPT), advised by Prof. <a href='https://faculty.cqupt.edu.cn/xiaoyp/zh_CN/index.htm'>**Yunpeng Xiao**  </a> and Prof.   <a href='https://www.idata.ah.cn/#/about/leaderDetail?id=2'>**Zuocheng Wang**</a>.  This is my resume  [<a href='/files/CHICV1.pdf' >**中文简历**</a>] [<a href='/files/ENGCV.pdf' >**CV**</a>].<br>
 
 
 
