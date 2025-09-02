@@ -29,7 +29,7 @@ My research lies in machine learning, data mining, and social computing.  During
 **2025** <br>
 - Interesting Culture: Social Relation Recognition from Videos via Culture De-confounding.<br>
 Yuxuan Zhang,  **Yangfu Zhu**, Haorui Wang, Bin Wu*.<br>
-  _EMNLP, 2025_  （ACCEPT, CCF-B, 自然语言处理顶会） <br>
+  _Findings of EMNLP, 2025_  （ACCEPT, CCF-B, 自然语言处理顶会） <br>
 
 - Cause and Effect: Video Social Relationship Recognition from Causal Perspective.**<br>**
   Yuxuan_Zhang, Bo Wang, Yu Du, **Yangfu Zhu**, Haorui Wang， HaoruiWang, Guangyao Su, Tao Zhou, Bin Wu* .<br>
