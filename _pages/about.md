@@ -40,9 +40,15 @@ Yuxuan Zhang,  **Yangfu Zhu**, Haorui Wang, Bin Wu*.<br>
   _IJCAI, 2025_  （ACCEPT, CCF-A, 人工智能顶会） <br>
 
 - A diachronic language model for long-time span classical Chinese.<br>
- Yuting Wei, Meiling Li,  **Yangfu Zhu** , Yuanxing Xu, Yuqing Li, Bin Wu*.<br>
+ Yuting Wei, Meiling Li,  **Yangfu Zhu**, Yuanxing Xu, Yuqing Li, Bin Wu*.<br>
  _Information Processing & Management, 2025: 103925._ （CCF-B, 中科院一区） <br>
- 
+
+
+- A general debiasing framework with counterfactual reasoning for multimodal public speaking anxiety detection.<br>
+  Tingting Zhang, **Yangfu Zhu**, Bin Wu, Chunping Zheng, Jiachen Tan, Zihua Xiong.<br>
+_ Neural Networks 2025: 107314_ （CCF-B, 中科院一区） <br>
+
+
 
 **2024**  <br>
 
