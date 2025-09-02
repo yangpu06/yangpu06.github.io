@@ -40,7 +40,7 @@ Yuxuan Zhang,  **Yangfu Zhu**, Haorui Wang, Bin Wu*.<br>
  **Yangfu Zhu**, Meiling Li, Yuting Wei , Di Liu, Yuqing Li, and Bin Wu*.<br>
   _IJCAI, 2025_  （ACCEPT, CCF-A, 人工智能顶会） <br>
 
-  - A diachronic language model for long-time span classical Chinese.<br>
+- A diachronic language model for long-time span classical Chinese.<br>
  Yuting Wei, Meiling Li,  **Yangfu Zhu** , Yuanxing Xu, Yuqing Li, Bin Wu*.<br>
  _Information Processing & Management, 2025: 103925._ （CCF-B, 中科院一区） <br>
  
