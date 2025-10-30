@@ -39,7 +39,7 @@ Yuxuan Zhang,  **Yangfu Zhu**, Haorui Wang, Bin Wu*.<br>
   _ACM MM, 2025_  （ACCEPT, CCF-A, 多媒体顶会） <br>
 
 - Learning Causally Disentangled Representations for Fair Personality Detection.<br>
- **Yangfu Zhu**, Meiling Li, Yuting Wei , Di Liu, Yuqing Li, and Bin Wu*.<br>
+ **Yangfu Zhu**, Meiling Li, Yuting Wei, Di Liu, Yuqing Li, and Bin Wu*.<br>
   _IJCAI, 2025_  （ACCEPT, CCF-A, 人工智能顶会） <br>
 
 - A diachronic language model for long-time span classical Chinese.<br>
@@ -75,7 +75,7 @@ Intra- and Inter-Sample Contrastive Learning.<br>
 
 - HG-PerCon: Cross-view contrastive learning for personality prediction..<br>
   Meiling Li, **Yangfu Zhu**, Shicheng Li, Bin Wu*. <br>
- _Neural Networks, 2024: 169: 542-554._  （CCF-B, 中科院一区）<br> 
+  Neural Networks, 2024: 169: 542-554.  （CCF-B, 中科院一区）<br> 
  <!--[<a href='https://www.sciencedirect.com/science/article/pii/S0893608023006044'>PDF</a>] [<a href='https://github.com/moshenglee/HG-PerCon'>Code</a>]-->
 
 - Prompt-Enhanced Prototype Framework for Few-shot Event Detection.<br>  Xu Liu, Xinming Chen, **Yangfu Zhu**, Bin Wu*.<br>   IJCNN, 2024: 1-8. （CCF-C, 会议）<br>
@@ -87,9 +87,7 @@ Intra- and Inter-Sample Contrastive Learning.<br>
 - Knowledge-guided Transformer for Joint Theme and Emotion Classification of Chinese Classical Poetry. <br> Yuting Wei, Linmei Hu, **Yangfu Zhu**, Bin Wu*. <br>
   _Transactions on Audio, Speech and Language Processing,2024._ （CCF-B, 自然语言处理顶刊） <br>
 
-
 **2023**  <br>
-  
 -  AC-EVAL: Evaluating Ancient Chinese Language Understanding in Large Language Models. <br>
   Yuting Wei, Yuanxing Xu, Xinru Wei, Simin Yang, **Yangfu Zhu**, Yuqing Li, Di Liu, Bin Wu*. <br>  _EMNLP 2024 Findings._（CCF-B, 自然语言处理顶会）<br>
  
