@@ -10,8 +10,11 @@ redirect_from:
 
  🚩 **About Me**
  
-Yangfu Zhu/朱洋甫 is currently a postdoctoral teaching fellow in Mathematics at Capital Normal University.
-Before that,  I received  my  PH.D.  (2020.09- 2024.06)  in Computer Science  at Beijing University of Posts and Telecommunications (BUPT), advised by Prof. <a href='https://teacher.bupt.edu.cn/wubin/zh_CN/index/41367/list/index.htm'>**Bin Wu**</a>.
+Yangfu Zhu/朱洋甫  received  PH.D.  (2020.09- 2024.06)  in Computer Science  at Beijing University of Posts and Telecommunications (BUPT), advised by Prof. <a href='https://teacher.bupt.edu.cn/wubin/zh_CN/index/41367/list/index.htm'>**Bin Wu**</a>.  My research lies in machine learning, data mining, and social computing.  During my Ph.D., I'm researching the computer-psychology interdisciplinary field, specifically personality computing.  <br>
+- **Graph Mining and Learning:** (Graph neural network, Information dissemination in social networks )
+- **Human-Centered NLP:** (User-generated document analysis, Social de-biasing )   
+- **Multimodal Learning:** (Personality computing, Cultural computing, Fake news detection )
+- **Psychological Assessment of LLMs** <br>
 
 <!-- I got my Master's degree (2017.09- 2020.06) at Chongqing University of Posts and Telecommunications (CQUPT), advised by Prof. <a href='https://faculty.cqupt.edu.cn/xiaoyp/zh_CN/index.htm'>**Yunpeng Xiao**  </a> and Prof.   <a href='https://www.idata.ah.cn/#/about/leaderDetail?id=2'>**Zuocheng Wang**</a>.  <br>-->
 
@@ -20,12 +23,7 @@ Before that,  I received  my  PH.D.  (2020.09- 2024.06)  in Computer Science  at
 
 
 
-My research lies in machine learning, data mining, and social computing.  During my Ph.D., I'm researching the computer-psychology interdisciplinary field, specifically personality computing.  <br>
 
-- **Graph Mining and Learning:** (Graph neural network, Information dissemination in social networks )
-- **Human-Centered NLP:** (User-generated document analysis, Social de-biasing )   
-- **Multimodal Learning:** (Personality computing, Cultural computing, Fake news detection )
-- **Psychological Assessment of LLMs** <br>
 
     
 * * *
