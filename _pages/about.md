@@ -41,6 +41,10 @@ Yangfu Zhu/朱洋甫  received  PH.D.  (2020.09- 2024.06)  in Computer Science  
   _ACL, 2026_  （ACCEPT, CCF-A, 自然语言处理顶会） <br>
 
 
+- Adaptive Diffusion-based Augmentation for Recommendation.<br>
+ Na Li, Fanghui Sun, Yan Zou, **Yangfu Zhu**, Xiatian Zhu, Ying Ma<br>
+  _AAAI, 2026_  （CCF-A, 自然语言处理顶会） <br>
+
 
 
 **2025** <br>
