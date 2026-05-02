@@ -40,7 +40,6 @@ Yangfu Zhu/朱洋甫  received  PH.D.  (2020.09- 2024.06)  in Computer Science  
  Yuandong Wang, Cui Yao, Yuxin Zhao, Zhen Yang, **Yangfu Zhu**, Zhenzhou Shao.<br>
   _ACL, 2026_  （ACCEPT, CCF-A, 自然语言处理顶会） <br>
 
-
 - Adaptive Diffusion-based Augmentation for Recommendation.<br>
  Na Li, Fanghui Sun, Yan Zou, **Yangfu Zhu**, Xiatian Zhu, Ying Ma<br>
   _AAAI, 2026_  （CCF-A, 人工智能顶会） <br>
@@ -63,7 +62,6 @@ Yuxuan Zhang,  **Yangfu Zhu**, Haorui Wang, Bin Wu*.<br>
 - A diachronic language model for long-time span classical Chinese.<br>
  Yuting Wei, Meiling Li,  **Yangfu Zhu**, Yuanxing Xu, Yuqing Li, Bin Wu*.<br>
  _Information Processing & Management, 2025: 103925._ （CCF-B, 中科院一区） <br>
-
 
 - A general debiasing framework with counterfactual reasoning for multimodal public speaking anxiety detection.<br>
   Tingting Zhang, **Yangfu Zhu**, Bin Wu, Chunping Zheng, Jiachen Tan, Zihua Xiong.<br>
