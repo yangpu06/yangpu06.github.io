@@ -29,6 +29,20 @@ Yangfu Zhu/朱洋甫  received  PH.D.  (2020.09- 2024.06)  in Computer Science  
 * * *
 📝 **Publications**
 
+
+**2026** <br>
+
+- Debiased Multimodal Personality Understanding through Dual Causal Intervention.**<br>**
+ **Yangfu Zhu**, Zitong han, Nianwen Ning, Yuting Wei, Yuandong Wang, Feng Hang, Zhenzhou Shao.<br>
+  _ACM SIGIR, 2026_  （ACCEPT, CCF-A, 数据挖掘顶会） <br>
+
+- MathSight: A Benchmark Exploring Have Vision-Language Models Really Seen in University-Level Mathematical Reasoning?.<br>
+ Yuandong Wang, Cui Yao, Yuxin Zhao, Zhen Yang, **Yangfu Zhu**, Zhenzhou Shao.<br>
+  _ACL, 2026_  （ACCEPT, CCF-A, 自然语言处理顶会） <br>
+
+
+
+
 **2025** <br>
 - Interesting Culture: Social Relation Recognition from Videos via Culture De-confounding.<br>
 Yuxuan Zhang,  **Yangfu Zhu**, Haorui Wang, Bin Wu*.<br>
