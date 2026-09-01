@@ -14,6 +14,7 @@ description              : &description "personal description"
 url                      : https://yangpu06.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yangpu06/yangpu06.github.io"
+max_width                : 1200   # <--- 添加这一行，单位是像素（px）--->
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 300
