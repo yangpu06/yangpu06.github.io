@@ -9,20 +9,8 @@ redirect_from:
 ---
 
  
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
-I am an Assistant Professor at [Xi'an Jiaotong-Liverpool University (XJTLU)](https://www.xjtlu.edu.cn/zh).
-
-Previously, I received my Ph.D. in Computer Science from the Department of Computing at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/tc/), advised by Prof. [Jiannong Cao (曹建农)](https://www4.comp.polyu.edu.hk/~csjcao/). I earned my M.Sc. from [KTH Royal Institute of Technology](https://www.kth.se/en), advised by Prof. [Zhibo Pang (庞智博)](https://amr.pku.edu.cn/jzyg/szdw/P/2a0b83b7eedb480293ee6eccdf490ef7.htm), and my B.Eng. in Communication Engineering from Beijing Jiaotong University. During my doctoral studies, I was a visiting researcher at [University of Southern California (USC)](https://www.usc.edu/), where I collaborated with Prof. [Yan Liu](https://sites.google.com/view/yanliu-ai/home).
-
-My research interests include recommender systems, embodied intelligence, and multi-agent systems, with a particular focus on building controllable and trustworthy recommendation world models and recommendation agents.
 
 <!--{% include_relative includes/news.md %}-->
 
@@ -47,10 +35,6 @@ Yangfu Zhu/朱洋甫  received  PH.D.  (2020.09- 2024.06)  in Computer Science  
 <!-- I got my Master's degree (2017.09- 2020.06) at Chongqing University of Posts and Telecommunications (CQUPT), advised by Prof. <a href='https://faculty.cqupt.edu.cn/xiaoyp/zh_CN/index.htm'>**Yunpeng Xiao**  </a> and Prof.   <a href='https://www.idata.ah.cn/#/about/leaderDetail?id=2'>**Zuocheng Wang**</a>.  <br>-->
 
  <!-- This is my resume  [<a href='/files/CHICV1.pdf' >**中文简历**</a>] [<a href='/files/ENGCV.pdf' >**CV**</a>].-->
-
-
-
-
 
 
     
