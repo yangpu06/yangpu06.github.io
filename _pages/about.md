@@ -31,6 +31,12 @@ Yangfu Zhu/朱洋甫  received  PH.D.  (2020.09- 2024.06)  in Computer Science  
 
 
 **2026** <br>
+- Preserving General Capability in Personality-Aligned LLMs via Orthogonal Gradient Projection <br>
+   **Yangfu Zhu**, Linyue Wei, Nianwen Ning, Pengpeng Zhou, Chenguang Song, Yuandong Wang, Zhenzhou Shao. <br>  _Findings of EMNLP 2026._（CCF-B, 自然语言处理顶会）<br>
+  
+- Causal Scene Deconfounding for 6-DoF Grasp Detection.**<br>**
+ **Yangfu Zhu**, Weizhen Tian,  Yuandong Wang, Feng Hang, Zhenzhou Shao.<br>
+  _ACM MM, 2026_  （ACCEPT, CCF-A, 多媒体顶会） <br>
 
 - Debiased Multimodal Personality Understanding through Dual Causal Intervention.**<br>**
  **Yangfu Zhu**, Zitong han, Nianwen Ning, Yuting Wei, Yuandong Wang, Feng Hang, Zhenzhou Shao.<br>
@@ -65,7 +71,7 @@ Yuxuan Zhang,  **Yangfu Zhu**, Haorui Wang, Bin Wu*.<br>
 
 - A general debiasing framework with counterfactual reasoning for multimodal public speaking anxiety detection.<br>
   Tingting Zhang, **Yangfu Zhu**, Bin Wu, Chunping Zheng, Jiachen Tan, Zihua Xiong.<br>
-_ Neural Networks 2025: 107314_ （CCF-B, 中科院一区） <br>
+ _Neural Networks 2025: 107314_ （CCF-B, 中科院一区） <br>
 
 
 
