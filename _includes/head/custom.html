@@ -35,4 +35,19 @@
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
+<!-- 正文加宽补丁：以下 3 条规则把内容栏加宽到 1280px、去掉右侧空白、字号回到 15px -->
+<style>
+  /* 1) 正文基准字号：18px -> 15px（和 zhuyf8899 一致，每行多放约 20% 的字） */
+  html { font-size: 15px !important; }
+  @media (min-width: 768px) { html { font-size: 15px !important; } }
+
+  /* 2) 去掉正文右侧那块约 17% 的空白（来自 _page.scss 的 suffix(2 of 12)） */
+  .page { padding-right: 0 !important; }
+
+  /* 3) 内容容器宽度上限：925px -> 1280px；窗口变窄时会跟着变窄，缩放/缩放窗口字数会跟着变 */
+  #main { max-width: 1280px !important; }
+
+  /* 想让大屏再宽一点（约每行 150 字）：把上面一行换成 max-width: 1400px */
+  /* 想保留原来更大的字号（每行约 120 字）：把上面两条 html 规则改成 font-size: 18px */
+</style>
 <!-- end custom head snippets -->
